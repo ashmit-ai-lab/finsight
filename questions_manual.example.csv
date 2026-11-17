@@ -1,0 +1,3 @@
+qid,ticker,question,reference_answer,gold_pages
+AAPL:manual:1,AAPL,What does Apple list as its main business segments?,"Americas, Europe, Greater China, Japan and Rest of Asia Pacific",
+AAPL:manual:2,AAPL,Which risk does Apple describe about dependence on outsourcing partners?,"Most manufacturing is done by outsourcing partners, mainly in Asia, so disruptions there can hurt supply",

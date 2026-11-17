@@ -1,0 +1,573 @@
+qid,ticker,metric,method,r@1,r@3,r@5,rr,top_pages,gold
+AAPL:RevenueFromContractWithCustomerExcludingAssessedTax:2026-09-26,AAPL,total revenue,plain_dense,1.0,1.0,1.0,1.0,52 69 13 5 55,42 44 52 63 82 83
+AAPL:RevenueFromContractWithCustomerExcludingAssessedTax:2026-09-26,AAPL,total revenue,plain_hybrid,1.0,1.0,1.0,1.0,63 55 56 52 53,42 44 52 63 82 83
+AAPL:RevenueFromContractWithCustomerExcludingAssessedTax:2026-09-26,AAPL,total revenue,table_dense,1.0,1.0,1.0,1.0,52 69 13 5 55,42 44 52 63 82 83
+AAPL:RevenueFromContractWithCustomerExcludingAssessedTax:2026-09-26,AAPL,total revenue,table_hybrid,1.0,1.0,1.0,1.0,63 56 55 41 86,42 44 52 63 82 83
+AAPL:RevenueFromContractWithCustomerExcludingAssessedTax:2025-09-27,AAPL,total revenue,plain_dense,1.0,1.0,1.0,1.0,52 63 55 71 46,42 44 52 63 82 83
+AAPL:RevenueFromContractWithCustomerExcludingAssessedTax:2025-09-27,AAPL,total revenue,plain_hybrid,1.0,1.0,1.0,1.0,63 56 55 52 53,42 44 52 63 82 83
+AAPL:RevenueFromContractWithCustomerExcludingAssessedTax:2025-09-27,AAPL,total revenue,table_dense,1.0,1.0,1.0,1.0,52 63 55 70 71,42 44 52 63 82 83
+AAPL:RevenueFromContractWithCustomerExcludingAssessedTax:2025-09-27,AAPL,total revenue,table_hybrid,1.0,1.0,1.0,1.0,63 56 55 84 52,42 44 52 63 82 83
+AAPL:RevenueFromContractWithCustomerExcludingAssessedTax:2024-09-28,AAPL,total revenue,plain_dense,1.0,1.0,1.0,1.0,52 71 53 57 48,42 44 52 63 82 83
+AAPL:RevenueFromContractWithCustomerExcludingAssessedTax:2024-09-28,AAPL,total revenue,plain_hybrid,0.0,1.0,1.0,0.5,53 52 51 63 56,42 44 52 63 82 83
+AAPL:RevenueFromContractWithCustomerExcludingAssessedTax:2024-09-28,AAPL,total revenue,table_dense,1.0,1.0,1.0,1.0,52 71 53 57 48,42 44 52 63 82 83
+AAPL:RevenueFromContractWithCustomerExcludingAssessedTax:2024-09-28,AAPL,total revenue,table_hybrid,0.0,0.0,1.0,0.25,50 51 59 52 53,42 44 52 63 82 83
+AAPL:NetIncomeLoss:2026-09-26,AAPL,net income,plain_dense,1.0,1.0,1.0,1.0,52 53 69 13 55,52 53 56 57 63
+AAPL:NetIncomeLoss:2026-09-26,AAPL,net income,plain_hybrid,1.0,1.0,1.0,1.0,53 52 56 63 84,52 53 56 57 63
+AAPL:NetIncomeLoss:2026-09-26,AAPL,net income,table_dense,1.0,1.0,1.0,1.0,52 53 69 13 55,52 53 56 57 63
+AAPL:NetIncomeLoss:2026-09-26,AAPL,net income,table_hybrid,1.0,1.0,1.0,1.0,53 52 56 84 63,52 53 56 57 63
+AAPL:NetIncomeLoss:2025-09-27,AAPL,net income,plain_dense,1.0,1.0,1.0,1.0,52 53 55 71 46,52 53 56 57 63
+AAPL:NetIncomeLoss:2025-09-27,AAPL,net income,plain_hybrid,1.0,1.0,1.0,1.0,53 52 56 63 84,52 53 56 57 63
+AAPL:NetIncomeLoss:2025-09-27,AAPL,net income,table_dense,1.0,1.0,1.0,1.0,52 53 55 70 71,52 53 56 57 63
+AAPL:NetIncomeLoss:2025-09-27,AAPL,net income,table_hybrid,1.0,1.0,1.0,1.0,56 53 52 63 84,52 53 56 57 63
+AAPL:NetIncomeLoss:2024-09-28,AAPL,net income,plain_dense,1.0,1.0,1.0,1.0,52 53 48 57 71,52 53 56 57 63
+AAPL:NetIncomeLoss:2024-09-28,AAPL,net income,plain_hybrid,1.0,1.0,1.0,1.0,53 52 56 51 57,52 53 56 57 63
+AAPL:NetIncomeLoss:2024-09-28,AAPL,net income,table_dense,1.0,1.0,1.0,1.0,52 53 48 57 71,52 53 56 57 63
+AAPL:NetIncomeLoss:2024-09-28,AAPL,net income,table_hybrid,1.0,1.0,1.0,1.0,56 53 52 50 57,52 53 56 57 63
+AAPL:OperatingIncomeLoss:2026-09-26,AAPL,operating income,plain_dense,1.0,1.0,1.0,1.0,52 71 53 69 55,52 82
+AAPL:OperatingIncomeLoss:2026-09-26,AAPL,operating income,plain_hybrid,1.0,1.0,1.0,1.0,52 53 51 59 84,52 82
+AAPL:OperatingIncomeLoss:2026-09-26,AAPL,operating income,table_dense,1.0,1.0,1.0,1.0,52 71 53 69 55,52 82
+AAPL:OperatingIncomeLoss:2026-09-26,AAPL,operating income,table_hybrid,1.0,1.0,1.0,1.0,52 53 59 50 51,52 82
+AAPL:OperatingIncomeLoss:2025-09-27,AAPL,operating income,plain_dense,1.0,1.0,1.0,1.0,52 71 53 55 46,52 82
+AAPL:OperatingIncomeLoss:2025-09-27,AAPL,operating income,plain_hybrid,1.0,1.0,1.0,1.0,52 53 51 57 59,52 82
+AAPL:OperatingIncomeLoss:2025-09-27,AAPL,operating income,table_dense,1.0,1.0,1.0,1.0,52 71 53 55 70,52 82
+AAPL:OperatingIncomeLoss:2025-09-27,AAPL,operating income,table_hybrid,1.0,1.0,1.0,1.0,52 51 53 57 59,52 82
+AAPL:OperatingIncomeLoss:2024-09-28,AAPL,operating income,plain_dense,1.0,1.0,1.0,1.0,52 71 53 57 48,52 82
+AAPL:OperatingIncomeLoss:2024-09-28,AAPL,operating income,plain_hybrid,1.0,1.0,1.0,1.0,52 51 53 57 56,52 82
+AAPL:OperatingIncomeLoss:2024-09-28,AAPL,operating income,table_dense,1.0,1.0,1.0,1.0,52 71 53 57 48,52 82
+AAPL:OperatingIncomeLoss:2024-09-28,AAPL,operating income,table_hybrid,1.0,1.0,1.0,1.0,52 50 51 57 53,52 82
+AAPL:GrossProfit:2026-09-26,AAPL,gross profit,plain_dense,1.0,1.0,1.0,1.0,52 69 13 5 58,45 52
+AAPL:GrossProfit:2026-09-26,AAPL,gross profit,plain_hybrid,1.0,1.0,1.0,1.0,52 56 84 86 41,45 52
+AAPL:GrossProfit:2026-09-26,AAPL,gross profit,table_dense,1.0,1.0,1.0,1.0,52 69 13 5 58,45 52
+AAPL:GrossProfit:2026-09-26,AAPL,gross profit,table_hybrid,0.0,1.0,1.0,0.5,56 52 86 84 41,45 52
+AAPL:GrossProfit:2025-09-27,AAPL,gross profit,plain_dense,0.0,1.0,1.0,0.3333333333333333,63 71 52 44 53,45 52
+AAPL:GrossProfit:2025-09-27,AAPL,gross profit,plain_hybrid,1.0,1.0,1.0,1.0,52 41 59 63 44,45 52
+AAPL:GrossProfit:2025-09-27,AAPL,gross profit,table_dense,0.0,1.0,1.0,0.3333333333333333,63 71 52 70 44,45 52
+AAPL:GrossProfit:2025-09-27,AAPL,gross profit,table_hybrid,1.0,1.0,1.0,1.0,52 41 59 84 70,45 52
+AAPL:GrossProfit:2024-09-28,AAPL,gross profit,plain_dense,0.0,1.0,1.0,0.5,71 52 63 53 44,45 52
+AAPL:GrossProfit:2024-09-28,AAPL,gross profit,plain_hybrid,1.0,1.0,1.0,1.0,52 41 59 71 63,45 52
+AAPL:GrossProfit:2024-09-28,AAPL,gross profit,table_dense,0.0,1.0,1.0,0.5,71 52 63 53 44,45 52
+AAPL:GrossProfit:2024-09-28,AAPL,gross profit,table_hybrid,1.0,1.0,1.0,1.0,52 41 59 84 71,45 52
+AAPL:ResearchAndDevelopmentExpense:2026-09-26,AAPL,research and development expense,plain_dense,1.0,1.0,1.0,1.0,52 69 13 33 31,45 52 82
+AAPL:ResearchAndDevelopmentExpense:2026-09-26,AAPL,research and development expense,plain_hybrid,1.0,1.0,1.0,1.0,52 41 56 86 84,45 52 82
+AAPL:ResearchAndDevelopmentExpense:2026-09-26,AAPL,research and development expense,table_dense,1.0,1.0,1.0,1.0,52 69 13 33 31,45 52 82
+AAPL:ResearchAndDevelopmentExpense:2026-09-26,AAPL,research and development expense,table_hybrid,1.0,1.0,1.0,1.0,52 41 68 86 45,45 52 82
+AAPL:ResearchAndDevelopmentExpense:2025-09-27,AAPL,research and development expense,plain_dense,1.0,1.0,1.0,1.0,52 71 46 55 69,45 52 82
+AAPL:ResearchAndDevelopmentExpense:2025-09-27,AAPL,research and development expense,plain_hybrid,1.0,1.0,1.0,1.0,52 59 51 4 41,45 52 82
+AAPL:ResearchAndDevelopmentExpense:2025-09-27,AAPL,research and development expense,table_dense,1.0,1.0,1.0,1.0,52 71 46 55 69,45 52 82
+AAPL:ResearchAndDevelopmentExpense:2025-09-27,AAPL,research and development expense,table_hybrid,1.0,1.0,1.0,1.0,52 59 50 51 4,45 52 82
+AAPL:ResearchAndDevelopmentExpense:2024-09-28,AAPL,research and development expense,plain_dense,1.0,1.0,1.0,1.0,52 48 71 57 51,45 52 82
+AAPL:ResearchAndDevelopmentExpense:2024-09-28,AAPL,research and development expense,plain_hybrid,1.0,1.0,1.0,1.0,52 51 59 57 4,45 52 82
+AAPL:ResearchAndDevelopmentExpense:2024-09-28,AAPL,research and development expense,table_dense,1.0,1.0,1.0,1.0,52 48 71 50 57,45 52 82
+AAPL:ResearchAndDevelopmentExpense:2024-09-28,AAPL,research and development expense,table_hybrid,1.0,1.0,1.0,1.0,52 50 59 51 4,45 52 82
+AAPL:IncomeTaxExpenseBenefit:2026-09-26,AAPL,income tax expense,plain_dense,1.0,1.0,1.0,1.0,71 13 33 31 5,47 52 71 72
+AAPL:IncomeTaxExpenseBenefit:2026-09-26,AAPL,income tax expense,plain_hybrid,0.0,1.0,1.0,0.5,79 52 59 53 71,47 52 71 72
+AAPL:IncomeTaxExpenseBenefit:2026-09-26,AAPL,income tax expense,table_dense,1.0,1.0,1.0,1.0,71 70 13 33 31,47 52 71 72
+AAPL:IncomeTaxExpenseBenefit:2026-09-26,AAPL,income tax expense,table_hybrid,0.0,1.0,1.0,0.5,79 52 59 53 70,47 52 71 72
+AAPL:IncomeTaxExpenseBenefit:2025-09-27,AAPL,income tax expense,plain_dense,1.0,1.0,1.0,1.0,52 71 46 55 53,47 52 71 72
+AAPL:IncomeTaxExpenseBenefit:2025-09-27,AAPL,income tax expense,plain_hybrid,1.0,1.0,1.0,1.0,52 53 59 79 56,47 52 71 72
+AAPL:IncomeTaxExpenseBenefit:2025-09-27,AAPL,income tax expense,table_dense,1.0,1.0,1.0,1.0,52 70 71 46 55,47 52 71 72
+AAPL:IncomeTaxExpenseBenefit:2025-09-27,AAPL,income tax expense,table_hybrid,0.0,1.0,1.0,0.3333333333333333,79 59 52 53 41,47 52 71 72
+AAPL:IncomeTaxExpenseBenefit:2024-09-28,AAPL,income tax expense,plain_dense,1.0,1.0,1.0,1.0,52 71 48 53 79,47 52 71 72
+AAPL:IncomeTaxExpenseBenefit:2024-09-28,AAPL,income tax expense,plain_hybrid,0.0,1.0,1.0,0.3333333333333333,53 79 52 56 59,47 52 71 72
+AAPL:IncomeTaxExpenseBenefit:2024-09-28,AAPL,income tax expense,table_dense,1.0,1.0,1.0,1.0,52 71 70 48 53,47 52 71 72
+AAPL:IncomeTaxExpenseBenefit:2024-09-28,AAPL,income tax expense,table_hybrid,0.0,1.0,1.0,0.5,79 52 53 59 56,47 52 71 72
+AAPL:NetCashProvidedByUsedInOperatingActivities:2026-09-26,AAPL,net cash provided by operating activities,plain_dense,0.0,1.0,1.0,0.3333333333333333,52 55 57 69 13,57
+AAPL:NetCashProvidedByUsedInOperatingActivities:2026-09-26,AAPL,net cash provided by operating activities,plain_hybrid,1.0,1.0,1.0,1.0,57 52 51 53 84,57
+AAPL:NetCashProvidedByUsedInOperatingActivities:2026-09-26,AAPL,net cash provided by operating activities,table_dense,0.0,1.0,1.0,0.3333333333333333,52 55 57 69 13,57
+AAPL:NetCashProvidedByUsedInOperatingActivities:2026-09-26,AAPL,net cash provided by operating activities,table_hybrid,1.0,1.0,1.0,1.0,57 52 50 51 59,57
+AAPL:NetCashProvidedByUsedInOperatingActivities:2025-09-27,AAPL,net cash provided by operating activities,plain_dense,0.0,1.0,1.0,0.5,52 57 55 71 46,57
+AAPL:NetCashProvidedByUsedInOperatingActivities:2025-09-27,AAPL,net cash provided by operating activities,plain_hybrid,1.0,1.0,1.0,1.0,57 52 51 76 59,57
+AAPL:NetCashProvidedByUsedInOperatingActivities:2025-09-27,AAPL,net cash provided by operating activities,table_dense,0.0,1.0,1.0,0.5,52 57 55 71 46,57
+AAPL:NetCashProvidedByUsedInOperatingActivities:2025-09-27,AAPL,net cash provided by operating activities,table_hybrid,1.0,1.0,1.0,1.0,57 52 76 50 59,57
+AAPL:NetCashProvidedByUsedInOperatingActivities:2024-09-28,AAPL,net cash provided by operating activities,plain_dense,0.0,1.0,1.0,0.3333333333333333,71 52 57 55 63,57
+AAPL:NetCashProvidedByUsedInOperatingActivities:2024-09-28,AAPL,net cash provided by operating activities,plain_hybrid,1.0,1.0,1.0,1.0,57 75 52 76 55,57
+AAPL:NetCashProvidedByUsedInOperatingActivities:2024-09-28,AAPL,net cash provided by operating activities,table_dense,0.0,1.0,1.0,0.3333333333333333,71 52 57 55 70,57
+AAPL:NetCashProvidedByUsedInOperatingActivities:2024-09-28,AAPL,net cash provided by operating activities,table_hybrid,1.0,1.0,1.0,1.0,57 75 52 76 55,57
+AAPL:EarningsPerShareDiluted:2026-09-26,AAPL,diluted earnings per share,plain_dense,1.0,1.0,1.0,1.0,52 63 56 55 53,52 63
+AAPL:EarningsPerShareDiluted:2026-09-26,AAPL,diluted earnings per share,plain_hybrid,1.0,1.0,1.0,1.0,52 63 56 84 55,52 63
+AAPL:EarningsPerShareDiluted:2026-09-26,AAPL,diluted earnings per share,table_dense,1.0,1.0,1.0,1.0,52 63 56 55 53,52 63
+AAPL:EarningsPerShareDiluted:2026-09-26,AAPL,diluted earnings per share,table_hybrid,1.0,1.0,1.0,1.0,63 52 56 84 86,52 63
+AAPL:EarningsPerShareDiluted:2025-09-27,AAPL,diluted earnings per share,plain_dense,1.0,1.0,1.0,1.0,63 71 52 55 56,52 63
+AAPL:EarningsPerShareDiluted:2025-09-27,AAPL,diluted earnings per share,plain_hybrid,1.0,1.0,1.0,1.0,63 52 56 39 59,52 63
+AAPL:EarningsPerShareDiluted:2025-09-27,AAPL,diluted earnings per share,table_dense,1.0,1.0,1.0,1.0,63 70 71 52 55,52 63
+AAPL:EarningsPerShareDiluted:2025-09-27,AAPL,diluted earnings per share,table_hybrid,1.0,1.0,1.0,1.0,63 52 56 39 59,52 63
+AAPL:EarningsPerShareDiluted:2024-09-28,AAPL,diluted earnings per share,plain_dense,1.0,1.0,1.0,1.0,52 56 63 53 55,52 63
+AAPL:EarningsPerShareDiluted:2024-09-28,AAPL,diluted earnings per share,plain_hybrid,1.0,1.0,1.0,1.0,52 63 56 51 86,52 63
+AAPL:EarningsPerShareDiluted:2024-09-28,AAPL,diluted earnings per share,table_dense,1.0,1.0,1.0,1.0,52 56 63 53 55,52 63
+AAPL:EarningsPerShareDiluted:2024-09-28,AAPL,diluted earnings per share,table_hybrid,1.0,1.0,1.0,1.0,63 52 56 51 50,52 63
+AAPL:Assets:2026-09-26,AAPL,total assets,plain_dense,1.0,1.0,1.0,1.0,55 52 83 53 69,55
+AAPL:Assets:2026-09-26,AAPL,total assets,plain_hybrid,0.0,1.0,1.0,0.5,83 55 53 68 52,55
+AAPL:Assets:2026-09-26,AAPL,total assets,table_dense,1.0,1.0,1.0,1.0,55 52 83 53 69,55
+AAPL:Assets:2026-09-26,AAPL,total assets,table_hybrid,0.0,1.0,1.0,0.5,83 55 68 73 52,55
+AAPL:Assets:2025-09-27,AAPL,total assets,plain_dense,1.0,1.0,1.0,1.0,55 52 83 57 53,55
+AAPL:Assets:2025-09-27,AAPL,total assets,plain_hybrid,0.0,1.0,1.0,0.5,83 55 68 76 52,55
+AAPL:Assets:2025-09-27,AAPL,total assets,table_dense,1.0,1.0,1.0,1.0,55 52 83 57 53,55
+AAPL:Assets:2025-09-27,AAPL,total assets,table_hybrid,0.0,1.0,1.0,0.5,83 55 68 76 40,55
+AAPL:Liabilities:2026-09-26,AAPL,total liabilities,plain_dense,0.0,1.0,1.0,0.5,52 55 53 51 69,55
+AAPL:Liabilities:2026-09-26,AAPL,total liabilities,plain_hybrid,1.0,1.0,1.0,1.0,55 51 84 53 52,55
+AAPL:Liabilities:2026-09-26,AAPL,total liabilities,table_dense,0.0,1.0,1.0,0.3333333333333333,52 70 55 76 53,55
+AAPL:Liabilities:2026-09-26,AAPL,total liabilities,table_hybrid,0.0,1.0,1.0,0.5,76 55 70 51 84,55
+AAPL:Liabilities:2025-09-27,AAPL,total liabilities,plain_dense,1.0,1.0,1.0,1.0,55 52 57 56 53,55
+AAPL:Liabilities:2025-09-27,AAPL,total liabilities,plain_hybrid,1.0,1.0,1.0,1.0,55 51 84 52 53,55
+AAPL:Liabilities:2025-09-27,AAPL,total liabilities,table_dense,0.0,1.0,1.0,0.5,70 55 52 57 56,55
+AAPL:Liabilities:2025-09-27,AAPL,total liabilities,table_hybrid,1.0,1.0,1.0,1.0,55 70 51 50 84,55
+AAPL:StockholdersEquity:2026-09-26,AAPL,total shareholders' equity,plain_dense,1.0,1.0,1.0,1.0,56 52 55 69 13,55 56
+AAPL:StockholdersEquity:2026-09-26,AAPL,total shareholders' equity,plain_hybrid,1.0,1.0,1.0,1.0,56 55 51 39 52,55 56
+AAPL:StockholdersEquity:2026-09-26,AAPL,total shareholders' equity,table_dense,1.0,1.0,1.0,1.0,56 52 55 69 13,55 56
+AAPL:StockholdersEquity:2026-09-26,AAPL,total shareholders' equity,table_hybrid,1.0,1.0,1.0,1.0,56 55 50 51 39,55 56
+AAPL:StockholdersEquity:2025-09-27,AAPL,total shareholders' equity,plain_dense,1.0,1.0,1.0,1.0,56 55 52 63 78,55 56
+AAPL:StockholdersEquity:2025-09-27,AAPL,total shareholders' equity,plain_hybrid,1.0,1.0,1.0,1.0,56 55 51 84 79,55 56
+AAPL:StockholdersEquity:2025-09-27,AAPL,total shareholders' equity,table_dense,1.0,1.0,1.0,1.0,56 55 52 63 78,55 56
+AAPL:StockholdersEquity:2025-09-27,AAPL,total shareholders' equity,table_hybrid,1.0,1.0,1.0,1.0,56 55 84 50 51,55 56
+AAPL:CashAndCashEquivalentsAtCarryingValue:2026-09-26,AAPL,cash and cash equivalents,plain_dense,1.0,1.0,1.0,1.0,55 57 52 53 69,55 57 64
+AAPL:CashAndCashEquivalentsAtCarryingValue:2026-09-26,AAPL,cash and cash equivalents,plain_hybrid,1.0,1.0,1.0,1.0,57 55 51 76 64,55 57 64
+AAPL:CashAndCashEquivalentsAtCarryingValue:2026-09-26,AAPL,cash and cash equivalents,table_dense,1.0,1.0,1.0,1.0,55 57 52 50 53,55 57 64
+AAPL:CashAndCashEquivalentsAtCarryingValue:2026-09-26,AAPL,cash and cash equivalents,table_hybrid,1.0,1.0,1.0,1.0,57 55 50 51 64,55 57 64
+AAPL:CashAndCashEquivalentsAtCarryingValue:2025-09-27,AAPL,cash and cash equivalents,plain_dense,1.0,1.0,1.0,1.0,55 57 52 59 76,55 57 65
+AAPL:CashAndCashEquivalentsAtCarryingValue:2025-09-27,AAPL,cash and cash equivalents,plain_hybrid,1.0,1.0,1.0,1.0,57 55 65 51 76,55 57 65
+AAPL:CashAndCashEquivalentsAtCarryingValue:2025-09-27,AAPL,cash and cash equivalents,table_dense,1.0,1.0,1.0,1.0,55 57 52 59 76,55 57 65
+AAPL:CashAndCashEquivalentsAtCarryingValue:2025-09-27,AAPL,cash and cash equivalents,table_hybrid,1.0,1.0,1.0,1.0,57 55 64 65 50,55 57 65
+MSFT:RevenueFromContractWithCustomerExcludingAssessedTax:2026-06-30,MSFT,total revenue,plain_dense,1.0,1.0,1.0,1.0,135 56 63 67 61,61 63 82 133 135
+MSFT:RevenueFromContractWithCustomerExcludingAssessedTax:2026-06-30,MSFT,total revenue,plain_hybrid,1.0,1.0,1.0,1.0,63 135 56 133 61,61 63 82 133 135
+MSFT:RevenueFromContractWithCustomerExcludingAssessedTax:2026-06-30,MSFT,total revenue,table_dense,1.0,1.0,1.0,1.0,135 111 56 63 67,61 63 82 133 135
+MSFT:RevenueFromContractWithCustomerExcludingAssessedTax:2026-06-30,MSFT,total revenue,table_hybrid,1.0,1.0,1.0,1.0,63 135 56 133 61,61 63 82 133 135
+MSFT:RevenueFromContractWithCustomerExcludingAssessedTax:2025-06-30,MSFT,total revenue,plain_dense,1.0,1.0,1.0,1.0,135 56 63 67 61,61 63 82 133 135
+MSFT:RevenueFromContractWithCustomerExcludingAssessedTax:2025-06-30,MSFT,total revenue,plain_hybrid,1.0,1.0,1.0,1.0,135 63 133 56 67,61 63 82 133 135
+MSFT:RevenueFromContractWithCustomerExcludingAssessedTax:2025-06-30,MSFT,total revenue,table_dense,1.0,1.0,1.0,1.0,135 111 56 63 121,61 63 82 133 135
+MSFT:RevenueFromContractWithCustomerExcludingAssessedTax:2025-06-30,MSFT,total revenue,table_hybrid,1.0,1.0,1.0,1.0,135 63 133 56 61,61 63 82 133 135
+MSFT:RevenueFromContractWithCustomerExcludingAssessedTax:2024-06-30,MSFT,total revenue,plain_dense,1.0,1.0,1.0,1.0,135 56 63 67 61,82 133 135
+MSFT:RevenueFromContractWithCustomerExcludingAssessedTax:2024-06-30,MSFT,total revenue,plain_hybrid,1.0,1.0,1.0,1.0,135 63 133 56 109,82 133 135
+MSFT:RevenueFromContractWithCustomerExcludingAssessedTax:2024-06-30,MSFT,total revenue,table_dense,1.0,1.0,1.0,1.0,135 111 56 63 67,82 133 135
+MSFT:RevenueFromContractWithCustomerExcludingAssessedTax:2024-06-30,MSFT,total revenue,table_hybrid,1.0,1.0,1.0,1.0,135 63 133 56 111,82 133 135
+MSFT:NetIncomeLoss:2026-06-30,MSFT,net income,plain_dense,0.0,1.0,1.0,0.3333333333333333,135 136 61 56 63,61 71 82 83 85 86 99
+MSFT:NetIncomeLoss:2026-06-30,MSFT,net income,plain_hybrid,0.0,0.0,1.0,0.2,136 63 56 1 83,61 71 82 83 85 86 99
+MSFT:NetIncomeLoss:2026-06-30,MSFT,net income,table_dense,0.0,0.0,1.0,0.25,111 135 136 61 56,61 71 82 83 85 86 99
+MSFT:NetIncomeLoss:2026-06-30,MSFT,net income,table_hybrid,0.0,0.0,0.0,0.16666666666666666,136 1 151 56 63,61 71 82 83 85 86 99
+MSFT:NetIncomeLoss:2025-06-30,MSFT,net income,plain_dense,0.0,1.0,1.0,0.3333333333333333,135 63 61 56 67,61 71 82 83 85 86 99
+MSFT:NetIncomeLoss:2025-06-30,MSFT,net income,plain_hybrid,0.0,1.0,1.0,0.3333333333333333,63 69 99 118 119,61 71 82 83 85 86 99
+MSFT:NetIncomeLoss:2025-06-30,MSFT,net income,table_dense,0.0,0.0,1.0,0.25,111 135 63 61 121,61 71 82 83 85 86 99
+MSFT:NetIncomeLoss:2025-06-30,MSFT,net income,table_hybrid,0.0,1.0,1.0,0.3333333333333333,63 69 99 136 61,61 71 82 83 85 86 99
+MSFT:NetIncomeLoss:2024-06-30,MSFT,net income,plain_dense,0.0,0.0,1.0,0.2,135 136 61 56 82,71 82 83 85 86 99
+MSFT:NetIncomeLoss:2024-06-30,MSFT,net income,plain_hybrid,0.0,1.0,1.0,0.3333333333333333,136 56 83 1 82,71 82 83 85 86 99
+MSFT:NetIncomeLoss:2024-06-30,MSFT,net income,table_dense,0.0,0.0,0.0,0.16666666666666666,111 135 136 61 56,71 82 83 85 86 99
+MSFT:NetIncomeLoss:2024-06-30,MSFT,net income,table_hybrid,0.0,0.0,1.0,0.2,136 56 151 1 83,71 82 83 85 86 99
+MSFT:OperatingIncomeLoss:2026-06-30,MSFT,operating income,plain_dense,1.0,1.0,1.0,1.0,61 135 82 67 136,61 63 82 133
+MSFT:OperatingIncomeLoss:2026-06-30,MSFT,operating income,plain_hybrid,0.0,1.0,1.0,0.5,136 133 63 56 82,61 63 82 133
+MSFT:OperatingIncomeLoss:2026-06-30,MSFT,operating income,table_dense,0.0,1.0,1.0,0.5,111 61 135 82 121,61 63 82 133
+MSFT:OperatingIncomeLoss:2026-06-30,MSFT,operating income,table_hybrid,0.0,1.0,1.0,0.5,136 63 133 56 135,61 63 82 133
+MSFT:OperatingIncomeLoss:2025-06-30,MSFT,operating income,plain_dense,1.0,1.0,1.0,1.0,61 135 82 136 67,61 63 82 133
+MSFT:OperatingIncomeLoss:2025-06-30,MSFT,operating income,plain_hybrid,1.0,1.0,1.0,1.0,133 136 63 56 82,61 63 82 133
+MSFT:OperatingIncomeLoss:2025-06-30,MSFT,operating income,table_dense,0.0,1.0,1.0,0.5,111 61 135 82 121,61 63 82 133
+MSFT:OperatingIncomeLoss:2025-06-30,MSFT,operating income,table_hybrid,1.0,1.0,1.0,1.0,133 136 63 56 135,61 63 82 133
+MSFT:OperatingIncomeLoss:2024-06-30,MSFT,operating income,plain_dense,0.0,0.0,0.0,0.125,61 63 135 67 65,82 133
+MSFT:OperatingIncomeLoss:2024-06-30,MSFT,operating income,plain_hybrid,0.0,1.0,1.0,0.5,63 133 61 136 67,82 133
+MSFT:OperatingIncomeLoss:2024-06-30,MSFT,operating income,table_dense,0.0,0.0,0.0,0.14285714285714285,61 111 63 135 67,82 133
+MSFT:OperatingIncomeLoss:2024-06-30,MSFT,operating income,table_hybrid,0.0,1.0,1.0,0.5,63 133 61 111 67,82 133
+MSFT:GrossProfit:2026-06-30,MSFT,gross profit,plain_dense,0.0,1.0,1.0,0.3333333333333333,135 56 61 67 82,61 82
+MSFT:GrossProfit:2026-06-30,MSFT,gross profit,plain_hybrid,0.0,0.0,1.0,0.25,56 136 135 61 133,61 82
+MSFT:GrossProfit:2026-06-30,MSFT,gross profit,table_dense,0.0,0.0,1.0,0.2,111 135 56 121 61,61 82
+MSFT:GrossProfit:2026-06-30,MSFT,gross profit,table_hybrid,0.0,0.0,1.0,0.25,135 56 136 61 116,61 82
+MSFT:GrossProfit:2025-06-30,MSFT,gross profit,plain_dense,0.0,1.0,1.0,0.3333333333333333,135 56 61 136 82,61 82
+MSFT:GrossProfit:2025-06-30,MSFT,gross profit,plain_hybrid,0.0,0.0,0.0,0.16666666666666666,136 56 133 135 119,61 82
+MSFT:GrossProfit:2025-06-30,MSFT,gross profit,table_dense,0.0,0.0,1.0,0.2,111 135 121 56 61,61 82
+MSFT:GrossProfit:2025-06-30,MSFT,gross profit,table_hybrid,0.0,0.0,1.0,0.25,56 136 135 61 133,61 82
+MSFT:GrossProfit:2024-06-30,MSFT,gross profit,plain_dense,0.0,0.0,1.0,0.2,135 136 61 56 82,82
+MSFT:GrossProfit:2024-06-30,MSFT,gross profit,plain_hybrid,0.0,0.0,0.0,0.14285714285714285,56 136 1 135 140,82
+MSFT:GrossProfit:2024-06-30,MSFT,gross profit,table_dense,0.0,0.0,0.0,0.16666666666666666,111 135 136 61 56,82
+MSFT:GrossProfit:2024-06-30,MSFT,gross profit,table_hybrid,0.0,0.0,0.0,0.1111111111111111,56 136 151 1 131,82
+MSFT:ResearchAndDevelopmentExpense:2026-06-30,MSFT,research and development expense,plain_dense,1.0,1.0,1.0,1.0,67 61 56 135 65,67 82
+MSFT:ResearchAndDevelopmentExpense:2026-06-30,MSFT,research and development expense,plain_hybrid,1.0,1.0,1.0,1.0,67 92 61 69 109,67 82
+MSFT:ResearchAndDevelopmentExpense:2026-06-30,MSFT,research and development expense,table_dense,1.0,1.0,1.0,1.0,67 61 56 135 111,67 82
+MSFT:ResearchAndDevelopmentExpense:2026-06-30,MSFT,research and development expense,table_hybrid,1.0,1.0,1.0,1.0,67 61 92 69 56,67 82
+MSFT:ResearchAndDevelopmentExpense:2025-06-30,MSFT,research and development expense,plain_dense,1.0,1.0,1.0,1.0,67 61 56 135 136,67 82
+MSFT:ResearchAndDevelopmentExpense:2025-06-30,MSFT,research and development expense,plain_hybrid,1.0,1.0,1.0,1.0,67 56 136 92 121,67 82
+MSFT:ResearchAndDevelopmentExpense:2025-06-30,MSFT,research and development expense,table_dense,1.0,1.0,1.0,1.0,67 61 56 111 135,67 82
+MSFT:ResearchAndDevelopmentExpense:2025-06-30,MSFT,research and development expense,table_hybrid,1.0,1.0,1.0,1.0,67 56 136 151 92,67 82
+MSFT:ResearchAndDevelopmentExpense:2024-06-30,MSFT,research and development expense,plain_dense,0.0,0.0,0.0,0.125,67 61 135 56 136,82
+MSFT:ResearchAndDevelopmentExpense:2024-06-30,MSFT,research and development expense,plain_hybrid,0.0,0.0,1.0,0.2,56 67 92 121 82,82
+MSFT:ResearchAndDevelopmentExpense:2024-06-30,MSFT,research and development expense,table_dense,0.0,0.0,0.0,0.09090909090909091,67 61 135 111 56,82
+MSFT:ResearchAndDevelopmentExpense:2024-06-30,MSFT,research and development expense,table_hybrid,0.0,0.0,0.0,0.125,67 56 151 114 92,82
+MSFT:IncomeTaxExpenseBenefit:2026-06-30,MSFT,income tax expense,plain_dense,0.0,0.0,0.0,0.1111111111111111,135 61 67 136 56,82 115 116
+MSFT:IncomeTaxExpenseBenefit:2026-06-30,MSFT,income tax expense,plain_hybrid,0.0,0.0,0.0,0.14285714285714285,136 56 1 119 127,82 115 116
+MSFT:IncomeTaxExpenseBenefit:2026-06-30,MSFT,income tax expense,table_dense,0.0,0.0,0.0,0.09090909090909091,111 135 61 67 136,82 115 116
+MSFT:IncomeTaxExpenseBenefit:2026-06-30,MSFT,income tax expense,table_hybrid,0.0,0.0,0.0,0.125,136 1 151 56 114,82 115 116
+MSFT:IncomeTaxExpenseBenefit:2025-06-30,MSFT,income tax expense,plain_dense,0.0,0.0,0.0,0.09090909090909091,67 61 135 56 63,82 115
+MSFT:IncomeTaxExpenseBenefit:2025-06-30,MSFT,income tax expense,plain_hybrid,0.0,0.0,0.0,0.08333333333333333,118 69 119 67 136,82 115
+MSFT:IncomeTaxExpenseBenefit:2025-06-30,MSFT,income tax expense,table_dense,0.0,0.0,0.0,0.09090909090909091,67 111 135 61 56,82 115
+MSFT:IncomeTaxExpenseBenefit:2025-06-30,MSFT,income tax expense,table_hybrid,0.0,0.0,0.0,0.06666666666666667,118 67 69 119 63,82 115
+MSFT:IncomeTaxExpenseBenefit:2024-06-30,MSFT,income tax expense,plain_dense,0.0,0.0,0.0,0.16666666666666666,135 61 67 136 56,82 115
+MSFT:IncomeTaxExpenseBenefit:2024-06-30,MSFT,income tax expense,plain_hybrid,0.0,0.0,0.0,0.14285714285714285,119 118 69 136 127,82 115
+MSFT:IncomeTaxExpenseBenefit:2024-06-30,MSFT,income tax expense,table_dense,0.0,0.0,0.0,0.1111111111111111,111 135 61 67 136,82 115
+MSFT:IncomeTaxExpenseBenefit:2024-06-30,MSFT,income tax expense,table_hybrid,0.0,0.0,0.0,0.125,116 119 118 136 135,82 115
+MSFT:NetCashProvidedByUsedInOperatingActivities:2026-06-30,MSFT,net cash provided by operating activities,plain_dense,0.0,0.0,0.0,0.14285714285714285,135 61 136 82 63,72 85
+MSFT:NetCashProvidedByUsedInOperatingActivities:2026-06-30,MSFT,net cash provided by operating activities,plain_hybrid,0.0,0.0,1.0,0.25,136 63 56 85 119,72 85
+MSFT:NetCashProvidedByUsedInOperatingActivities:2026-06-30,MSFT,net cash provided by operating activities,table_dense,0.0,0.0,0.0,0.09090909090909091,111 135 61 136 121,72 85
+MSFT:NetCashProvidedByUsedInOperatingActivities:2026-06-30,MSFT,net cash provided by operating activities,table_hybrid,0.0,0.0,1.0,0.25,136 63 56 85 119,72 85
+MSFT:NetCashProvidedByUsedInOperatingActivities:2025-06-30,MSFT,net cash provided by operating activities,plain_dense,0.0,0.0,0.0,0.14285714285714285,135 61 136 82 56,85
+MSFT:NetCashProvidedByUsedInOperatingActivities:2025-06-30,MSFT,net cash provided by operating activities,plain_hybrid,0.0,0.0,1.0,0.25,136 56 63 85 69,85
+MSFT:NetCashProvidedByUsedInOperatingActivities:2025-06-30,MSFT,net cash provided by operating activities,table_dense,0.0,0.0,0.0,0.09090909090909091,111 135 61 136 121,85
+MSFT:NetCashProvidedByUsedInOperatingActivities:2025-06-30,MSFT,net cash provided by operating activities,table_hybrid,0.0,0.0,1.0,0.25,136 56 63 85 135,85
+MSFT:NetCashProvidedByUsedInOperatingActivities:2024-06-30,MSFT,net cash provided by operating activities,plain_dense,0.0,0.0,0.0,0.1111111111111111,135 61 136 82 149,85
+MSFT:NetCashProvidedByUsedInOperatingActivities:2024-06-30,MSFT,net cash provided by operating activities,plain_hybrid,0.0,1.0,1.0,0.3333333333333333,56 136 85 119 63,85
+MSFT:NetCashProvidedByUsedInOperatingActivities:2024-06-30,MSFT,net cash provided by operating activities,table_dense,0.0,0.0,0.0,0.08333333333333333,111 135 61 136 82,85
+MSFT:NetCashProvidedByUsedInOperatingActivities:2024-06-30,MSFT,net cash provided by operating activities,table_hybrid,0.0,0.0,1.0,0.2,56 136 119 135 85,85
+MSFT:EarningsPerShareDiluted:2026-06-30,MSFT,diluted earnings per share,plain_dense,0.0,1.0,1.0,0.5,136 82 135 63 61,61 71 82 99
+MSFT:EarningsPerShareDiluted:2026-06-30,MSFT,diluted earnings per share,plain_hybrid,1.0,1.0,1.0,1.0,82 99 63 61 111,61 71 82 99
+MSFT:EarningsPerShareDiluted:2026-06-30,MSFT,diluted earnings per share,table_dense,0.0,1.0,1.0,0.3333333333333333,111 136 82 151 135,61 71 82 99
+MSFT:EarningsPerShareDiluted:2026-06-30,MSFT,diluted earnings per share,table_hybrid,0.0,1.0,1.0,0.5,111 82 61 99 136,61 71 82 99
+MSFT:EarningsPerShareDiluted:2025-06-30,MSFT,diluted earnings per share,plain_dense,0.0,1.0,1.0,0.5,136 82 135 61 63,61 71 82 99
+MSFT:EarningsPerShareDiluted:2025-06-30,MSFT,diluted earnings per share,plain_hybrid,1.0,1.0,1.0,1.0,82 99 61 63 136,61 71 82 99
+MSFT:EarningsPerShareDiluted:2025-06-30,MSFT,diluted earnings per share,table_dense,0.0,1.0,1.0,0.3333333333333333,111 136 82 151 121,61 71 82 99
+MSFT:EarningsPerShareDiluted:2025-06-30,MSFT,diluted earnings per share,table_hybrid,1.0,1.0,1.0,1.0,82 111 61 99 136,61 71 82 99
+MSFT:EarningsPerShareDiluted:2024-06-30,MSFT,diluted earnings per share,plain_dense,0.0,1.0,1.0,0.5,136 82 135 149 61,71 82 99
+MSFT:EarningsPerShareDiluted:2024-06-30,MSFT,diluted earnings per share,plain_hybrid,1.0,1.0,1.0,1.0,82 99 111 56 61,71 82 99
+MSFT:EarningsPerShareDiluted:2024-06-30,MSFT,diluted earnings per share,table_dense,0.0,1.0,1.0,0.3333333333333333,111 136 82 135 151,71 82 99
+MSFT:EarningsPerShareDiluted:2024-06-30,MSFT,diluted earnings per share,table_hybrid,0.0,1.0,1.0,0.5,111 82 61 99 136,71 82 99
+MSFT:Assets:2026-06-30,MSFT,total assets,plain_dense,0.0,0.0,0.0,0.1111111111111111,135 109 61 67 136,84
+MSFT:Assets:2026-06-30,MSFT,total assets,plain_hybrid,0.0,1.0,1.0,0.3333333333333333,136 135 84 109 108,84
+MSFT:Assets:2026-06-30,MSFT,total assets,table_dense,0.0,0.0,0.0,0.1,135 111 109 61 67,84
+MSFT:Assets:2026-06-30,MSFT,total assets,table_hybrid,0.0,0.0,1.0,0.2,135 136 114 111 84,84
+MSFT:Assets:2025-06-30,MSFT,total assets,plain_dense,1.0,1.0,1.0,1.0,84 135 136 61 82,84
+MSFT:Assets:2025-06-30,MSFT,total assets,plain_hybrid,1.0,1.0,1.0,1.0,84 136 108 135 109,84
+MSFT:Assets:2025-06-30,MSFT,total assets,table_dense,0.0,1.0,1.0,0.5,111 84 135 136 61,84
+MSFT:Assets:2025-06-30,MSFT,total assets,table_hybrid,1.0,1.0,1.0,1.0,84 136 122 108 135,84
+MSFT:Liabilities:2026-06-30,MSFT,total liabilities,plain_dense,0.0,0.0,0.0,0.0,136 108 122 149 126,84
+MSFT:Liabilities:2026-06-30,MSFT,total liabilities,plain_hybrid,0.0,0.0,0.0,0.1111111111111111,108 122 126 136 56,84
+MSFT:Liabilities:2026-06-30,MSFT,total liabilities,table_dense,0.0,0.0,0.0,0.05263157894736842,111 136 108 151 122,84
+MSFT:Liabilities:2026-06-30,MSFT,total liabilities,table_hybrid,0.0,0.0,0.0,0.14285714285714285,108 136 122 126 111,84
+MSFT:Liabilities:2025-06-30,MSFT,total liabilities,plain_dense,0.0,0.0,1.0,0.2,136 108 122 126 84,84
+MSFT:Liabilities:2025-06-30,MSFT,total liabilities,plain_hybrid,0.0,0.0,1.0,0.25,108 136 126 84 122,84
+MSFT:Liabilities:2025-06-30,MSFT,total liabilities,table_dense,0.0,0.0,1.0,0.25,111 136 108 84 122,84
+MSFT:Liabilities:2025-06-30,MSFT,total liabilities,table_hybrid,0.0,0.0,1.0,0.25,108 136 122 84 126,84
+MSFT:StockholdersEquity:2026-06-30,MSFT,total shareholders' equity,plain_dense,0.0,0.0,0.0,0.16666666666666666,136 54 149 1 151,84 86
+MSFT:StockholdersEquity:2026-06-30,MSFT,total shareholders' equity,plain_hybrid,0.0,0.0,1.0,0.25,136 54 56 86 109,84 86
+MSFT:StockholdersEquity:2026-06-30,MSFT,total shareholders' equity,table_dense,0.0,0.0,0.0,0.125,111 136 151 54 149,84 86
+MSFT:StockholdersEquity:2026-06-30,MSFT,total shareholders' equity,table_hybrid,0.0,0.0,1.0,0.25,136 54 56 86 84,84 86
+MSFT:StockholdersEquity:2025-06-30,MSFT,total shareholders' equity,plain_dense,0.0,0.0,1.0,0.2,136 54 149 1 86,84 86
+MSFT:StockholdersEquity:2025-06-30,MSFT,total shareholders' equity,plain_hybrid,0.0,0.0,1.0,0.25,136 54 56 86 108,84 86
+MSFT:StockholdersEquity:2025-06-30,MSFT,total shareholders' equity,table_dense,0.0,0.0,0.0,0.14285714285714285,111 136 54 151 149,84 86
+MSFT:StockholdersEquity:2025-06-30,MSFT,total shareholders' equity,table_hybrid,0.0,0.0,1.0,0.25,136 56 54 84 86,84 86
+MSFT:CashAndCashEquivalentsAtCarryingValue:2026-06-30,MSFT,cash and cash equivalents,plain_dense,1.0,1.0,1.0,1.0,84 136 135 146 82,84 85 102
+MSFT:CashAndCashEquivalentsAtCarryingValue:2026-06-30,MSFT,cash and cash equivalents,plain_hybrid,0.0,1.0,1.0,0.5,136 84 122 72 111,84 85 102
+MSFT:CashAndCashEquivalentsAtCarryingValue:2026-06-30,MSFT,cash and cash equivalents,table_dense,0.0,1.0,1.0,0.5,111 84 136 135 122,84 85 102
+MSFT:CashAndCashEquivalentsAtCarryingValue:2026-06-30,MSFT,cash and cash equivalents,table_hybrid,1.0,1.0,1.0,1.0,84 136 122 72 85,84 85 102
+MSFT:CashAndCashEquivalentsAtCarryingValue:2025-06-30,MSFT,cash and cash equivalents,plain_dense,1.0,1.0,1.0,1.0,84 136 135 72 146,84 85 103
+MSFT:CashAndCashEquivalentsAtCarryingValue:2025-06-30,MSFT,cash and cash equivalents,plain_hybrid,0.0,1.0,1.0,0.5,136 84 72 122 111,84 85 103
+MSFT:CashAndCashEquivalentsAtCarryingValue:2025-06-30,MSFT,cash and cash equivalents,table_dense,1.0,1.0,1.0,1.0,84 111 136 135 122,84 85 103
+MSFT:CashAndCashEquivalentsAtCarryingValue:2025-06-30,MSFT,cash and cash equivalents,table_hybrid,1.0,1.0,1.0,1.0,84 136 122 72 85,84 85 103
+NVDA:Revenues:2026-01-25,NVDA,total revenue,plain_dense,1.0,1.0,1.0,1.0,87 88 125 123 85,67 71 87 122 123 125
+NVDA:Revenues:2026-01-25,NVDA,total revenue,plain_hybrid,1.0,1.0,1.0,1.0,125 85 92 65 123,67 71 87 122 123 125
+NVDA:Revenues:2026-01-25,NVDA,total revenue,table_dense,1.0,1.0,1.0,1.0,87 88 125 123 85,67 71 87 122 123 125
+NVDA:Revenues:2026-01-25,NVDA,total revenue,table_hybrid,1.0,1.0,1.0,1.0,125 85 65 92 70,67 71 87 122 123 125
+NVDA:Revenues:2025-01-26,NVDA,total revenue,plain_dense,1.0,1.0,1.0,1.0,87 125 88 123 91,67 71 87 122 123 125
+NVDA:Revenues:2025-01-26,NVDA,total revenue,plain_hybrid,1.0,1.0,1.0,1.0,125 92 85 123 70,67 71 87 122 123 125
+NVDA:Revenues:2025-01-26,NVDA,total revenue,table_dense,1.0,1.0,1.0,1.0,87 125 88 123 91,67 71 87 122 123 125
+NVDA:Revenues:2025-01-26,NVDA,total revenue,table_hybrid,1.0,1.0,1.0,1.0,125 92 85 70 65,67 71 87 122 123 125
+NVDA:Revenues:2024-01-28,NVDA,total revenue,plain_dense,1.0,1.0,1.0,1.0,87 88 125 123 91,87 122 123 125
+NVDA:Revenues:2024-01-28,NVDA,total revenue,plain_hybrid,1.0,1.0,1.0,1.0,123 125 88 87 118,87 122 123 125
+NVDA:Revenues:2024-01-28,NVDA,total revenue,table_dense,1.0,1.0,1.0,1.0,87 88 125 123 91,87 122 123 125
+NVDA:Revenues:2024-01-28,NVDA,total revenue,table_hybrid,1.0,1.0,1.0,1.0,123 125 118 87 127,87 122 123 125
+NVDA:NetIncomeLoss:2026-01-25,NVDA,net income,plain_dense,1.0,1.0,1.0,1.0,87 88 123 112 91,67 87 88 90 91 103
+NVDA:NetIncomeLoss:2026-01-25,NVDA,net income,plain_hybrid,1.0,1.0,1.0,1.0,88 87 123 67 91,67 87 88 90 91 103
+NVDA:NetIncomeLoss:2026-01-25,NVDA,net income,table_dense,1.0,1.0,1.0,1.0,87 88 123 112 91,67 87 88 90 91 103
+NVDA:NetIncomeLoss:2026-01-25,NVDA,net income,table_hybrid,1.0,1.0,1.0,1.0,88 87 123 67 118,67 87 88 90 91 103
+NVDA:NetIncomeLoss:2025-01-26,NVDA,net income,plain_dense,1.0,1.0,1.0,1.0,87 88 123 112 91,67 87 88 90 91 103
+NVDA:NetIncomeLoss:2025-01-26,NVDA,net income,plain_hybrid,1.0,1.0,1.0,1.0,88 87 123 118 117,67 87 88 90 91 103
+NVDA:NetIncomeLoss:2025-01-26,NVDA,net income,table_dense,1.0,1.0,1.0,1.0,87 88 123 112 91,67 87 88 90 91 103
+NVDA:NetIncomeLoss:2025-01-26,NVDA,net income,table_hybrid,1.0,1.0,1.0,1.0,88 87 123 118 117,67 87 88 90 91 103
+NVDA:NetIncomeLoss:2024-01-28,NVDA,net income,plain_dense,1.0,1.0,1.0,1.0,87 88 125 85 91,87 88 90 91 103
+NVDA:NetIncomeLoss:2024-01-28,NVDA,net income,plain_hybrid,1.0,1.0,1.0,1.0,88 87 123 103 118,87 88 90 91 103
+NVDA:NetIncomeLoss:2024-01-28,NVDA,net income,table_dense,1.0,1.0,1.0,1.0,87 88 125 85 91,87 88 90 91 103
+NVDA:NetIncomeLoss:2024-01-28,NVDA,net income,table_hybrid,1.0,1.0,1.0,1.0,88 87 118 103 123,87 88 90 91 103
+NVDA:OperatingIncomeLoss:2026-01-25,NVDA,operating income,plain_dense,1.0,1.0,1.0,1.0,87 88 123 91 127,67 87
+NVDA:OperatingIncomeLoss:2026-01-25,NVDA,operating income,plain_hybrid,0.0,0.0,1.0,0.25,123 118 127 87 85,67 87
+NVDA:OperatingIncomeLoss:2026-01-25,NVDA,operating income,table_dense,1.0,1.0,1.0,1.0,87 88 123 91 127,67 87
+NVDA:OperatingIncomeLoss:2026-01-25,NVDA,operating income,table_hybrid,0.0,0.0,0.0,0.16666666666666666,118 123 127 117 85,67 87
+NVDA:OperatingIncomeLoss:2025-01-26,NVDA,operating income,plain_dense,1.0,1.0,1.0,1.0,87 88 123 127 91,67 87
+NVDA:OperatingIncomeLoss:2025-01-26,NVDA,operating income,plain_hybrid,0.0,0.0,1.0,0.25,127 85 123 87 70,67 87
+NVDA:OperatingIncomeLoss:2025-01-26,NVDA,operating income,table_dense,1.0,1.0,1.0,1.0,87 88 123 127 91,67 87
+NVDA:OperatingIncomeLoss:2025-01-26,NVDA,operating income,table_hybrid,0.0,0.0,0.0,0.16666666666666666,85 127 70 92 123,67 87
+NVDA:OperatingIncomeLoss:2024-01-28,NVDA,operating income,plain_dense,1.0,1.0,1.0,1.0,87 88 91 123 125,87
+NVDA:OperatingIncomeLoss:2024-01-28,NVDA,operating income,plain_hybrid,0.0,1.0,1.0,0.5,123 87 127 88 118,87
+NVDA:OperatingIncomeLoss:2024-01-28,NVDA,operating income,table_dense,1.0,1.0,1.0,1.0,87 88 91 123 125,87
+NVDA:OperatingIncomeLoss:2024-01-28,NVDA,operating income,table_hybrid,0.0,1.0,1.0,0.3333333333333333,123 127 87 92 118,87
+NVDA:GrossProfit:2026-01-25,NVDA,gross profit,plain_dense,1.0,1.0,1.0,1.0,87 88 85 125 91,87
+NVDA:GrossProfit:2026-01-25,NVDA,gross profit,plain_hybrid,1.0,1.0,1.0,1.0,87 85 70 92 104,87
+NVDA:GrossProfit:2026-01-25,NVDA,gross profit,table_dense,1.0,1.0,1.0,1.0,87 88 85 125 91,87
+NVDA:GrossProfit:2026-01-25,NVDA,gross profit,table_hybrid,1.0,1.0,1.0,1.0,87 85 92 70 65,87
+NVDA:GrossProfit:2025-01-26,NVDA,gross profit,plain_dense,1.0,1.0,1.0,1.0,87 88 125 123 91,87
+NVDA:GrossProfit:2025-01-26,NVDA,gross profit,plain_hybrid,1.0,1.0,1.0,1.0,87 118 85 127 70,87
+NVDA:GrossProfit:2025-01-26,NVDA,gross profit,table_dense,1.0,1.0,1.0,1.0,87 88 125 123 91,87
+NVDA:GrossProfit:2025-01-26,NVDA,gross profit,table_hybrid,1.0,1.0,1.0,1.0,87 118 85 70 127,87
+NVDA:GrossProfit:2024-01-28,NVDA,gross profit,plain_dense,1.0,1.0,1.0,1.0,87 88 112 123 125,87
+NVDA:GrossProfit:2024-01-28,NVDA,gross profit,plain_hybrid,1.0,1.0,1.0,1.0,87 104 127 123 70,87
+NVDA:GrossProfit:2024-01-28,NVDA,gross profit,table_dense,1.0,1.0,1.0,1.0,87 88 112 123 125,87
+NVDA:GrossProfit:2024-01-28,NVDA,gross profit,table_hybrid,1.0,1.0,1.0,1.0,87 104 127 70 92,87
+NVDA:ResearchAndDevelopmentExpense:2026-01-25,NVDA,research and development expense,plain_dense,1.0,1.0,1.0,1.0,87 104 88 110 125,73 87
+NVDA:ResearchAndDevelopmentExpense:2026-01-25,NVDA,research and development expense,plain_hybrid,1.0,1.0,1.0,1.0,87 118 104 73 123,73 87
+NVDA:ResearchAndDevelopmentExpense:2026-01-25,NVDA,research and development expense,table_dense,1.0,1.0,1.0,1.0,87 104 88 110 125,73 87
+NVDA:ResearchAndDevelopmentExpense:2026-01-25,NVDA,research and development expense,table_hybrid,0.0,1.0,1.0,0.5,118 87 73 104 110,73 87
+NVDA:ResearchAndDevelopmentExpense:2025-01-26,NVDA,research and development expense,plain_dense,1.0,1.0,1.0,1.0,87 122 104 110 112,73 87
+NVDA:ResearchAndDevelopmentExpense:2025-01-26,NVDA,research and development expense,plain_hybrid,1.0,1.0,1.0,1.0,87 118 104 73 110,73 87
+NVDA:ResearchAndDevelopmentExpense:2025-01-26,NVDA,research and development expense,table_dense,1.0,1.0,1.0,1.0,87 122 104 110 112,73 87
+NVDA:ResearchAndDevelopmentExpense:2025-01-26,NVDA,research and development expense,table_hybrid,1.0,1.0,1.0,1.0,87 118 73 104 122,73 87
+NVDA:ResearchAndDevelopmentExpense:2024-01-28,NVDA,research and development expense,plain_dense,1.0,1.0,1.0,1.0,87 122 104 112 110,87
+NVDA:ResearchAndDevelopmentExpense:2024-01-28,NVDA,research and development expense,plain_hybrid,1.0,1.0,1.0,1.0,87 104 118 122 110,87
+NVDA:ResearchAndDevelopmentExpense:2024-01-28,NVDA,research and development expense,table_dense,1.0,1.0,1.0,1.0,87 122 104 112 110,87
+NVDA:ResearchAndDevelopmentExpense:2024-01-28,NVDA,research and development expense,table_hybrid,1.0,1.0,1.0,1.0,87 118 104 110 122,87
+NVDA:IncomeTaxExpenseBenefit:2026-01-25,NVDA,income tax expense,plain_dense,1.0,1.0,1.0,1.0,87 118 123 88 117,75 86 87 116 117
+NVDA:IncomeTaxExpenseBenefit:2026-01-25,NVDA,income tax expense,plain_hybrid,0.0,1.0,1.0,0.5,118 117 87 123 96,75 86 87 116 117
+NVDA:IncomeTaxExpenseBenefit:2026-01-25,NVDA,income tax expense,table_dense,1.0,1.0,1.0,1.0,87 118 123 88 117,75 86 87 116 117
+NVDA:IncomeTaxExpenseBenefit:2026-01-25,NVDA,income tax expense,table_hybrid,0.0,1.0,1.0,0.5,118 117 123 87 96,75 86 87 116 117
+NVDA:IncomeTaxExpenseBenefit:2025-01-26,NVDA,income tax expense,plain_dense,1.0,1.0,1.0,1.0,118 87 88 123 117,75 87 116 118
+NVDA:IncomeTaxExpenseBenefit:2025-01-26,NVDA,income tax expense,plain_hybrid,1.0,1.0,1.0,1.0,118 117 123 87 88,75 87 116 118
+NVDA:IncomeTaxExpenseBenefit:2025-01-26,NVDA,income tax expense,table_dense,1.0,1.0,1.0,1.0,118 87 88 123 117,75 87 116 118
+NVDA:IncomeTaxExpenseBenefit:2025-01-26,NVDA,income tax expense,table_hybrid,1.0,1.0,1.0,1.0,118 117 123 87 88,75 87 116 118
+NVDA:IncomeTaxExpenseBenefit:2024-01-28,NVDA,income tax expense,plain_dense,1.0,1.0,1.0,1.0,87 118 123 88 112,87 116 118
+NVDA:IncomeTaxExpenseBenefit:2024-01-28,NVDA,income tax expense,plain_hybrid,1.0,1.0,1.0,1.0,118 123 87 117 88,87 116 118
+NVDA:IncomeTaxExpenseBenefit:2024-01-28,NVDA,income tax expense,table_dense,1.0,1.0,1.0,1.0,87 118 123 88 112,87 116 118
+NVDA:IncomeTaxExpenseBenefit:2024-01-28,NVDA,income tax expense,table_hybrid,1.0,1.0,1.0,1.0,118 123 117 87 88,87 116 118
+NVDA:NetCashProvidedByUsedInOperatingActivities:2026-01-25,NVDA,net cash provided by operating activities,plain_dense,1.0,1.0,1.0,1.0,91 87 88 85 127,76 91
+NVDA:NetCashProvidedByUsedInOperatingActivities:2026-01-25,NVDA,net cash provided by operating activities,plain_hybrid,1.0,1.0,1.0,1.0,91 127 85 76 89,76 91
+NVDA:NetCashProvidedByUsedInOperatingActivities:2026-01-25,NVDA,net cash provided by operating activities,table_dense,1.0,1.0,1.0,1.0,91 87 88 85 127,76 91
+NVDA:NetCashProvidedByUsedInOperatingActivities:2026-01-25,NVDA,net cash provided by operating activities,table_hybrid,1.0,1.0,1.0,1.0,91 76 127 85 89,76 91
+NVDA:NetCashProvidedByUsedInOperatingActivities:2025-01-26,NVDA,net cash provided by operating activities,plain_dense,1.0,1.0,1.0,1.0,91 87 127 88 125,76 91
+NVDA:NetCashProvidedByUsedInOperatingActivities:2025-01-26,NVDA,net cash provided by operating activities,plain_hybrid,1.0,1.0,1.0,1.0,91 127 88 76 118,76 91
+NVDA:NetCashProvidedByUsedInOperatingActivities:2025-01-26,NVDA,net cash provided by operating activities,table_dense,1.0,1.0,1.0,1.0,91 87 127 88 125,76 91
+NVDA:NetCashProvidedByUsedInOperatingActivities:2025-01-26,NVDA,net cash provided by operating activities,table_hybrid,1.0,1.0,1.0,1.0,91 76 127 88 118,76 91
+NVDA:NetCashProvidedByUsedInOperatingActivities:2024-01-28,NVDA,net cash provided by operating activities,plain_dense,1.0,1.0,1.0,1.0,91 87 88 89 125,91
+NVDA:NetCashProvidedByUsedInOperatingActivities:2024-01-28,NVDA,net cash provided by operating activities,plain_hybrid,1.0,1.0,1.0,1.0,91 88 127 87 123,91
+NVDA:NetCashProvidedByUsedInOperatingActivities:2024-01-28,NVDA,net cash provided by operating activities,table_dense,1.0,1.0,1.0,1.0,91 87 88 89 125,91
+NVDA:NetCashProvidedByUsedInOperatingActivities:2024-01-28,NVDA,net cash provided by operating activities,table_hybrid,1.0,1.0,1.0,1.0,91 127 88 123 76,91
+NVDA:EarningsPerShareDiluted:2026-01-25,NVDA,diluted earnings per share,plain_dense,1.0,1.0,1.0,1.0,87 88 90 125 123,67 87 103
+NVDA:EarningsPerShareDiluted:2026-01-25,NVDA,diluted earnings per share,plain_hybrid,1.0,1.0,1.0,1.0,87 90 67 103 112,67 87 103
+NVDA:EarningsPerShareDiluted:2026-01-25,NVDA,diluted earnings per share,table_dense,1.0,1.0,1.0,1.0,87 88 64 90 125,67 87 103
+NVDA:EarningsPerShareDiluted:2026-01-25,NVDA,diluted earnings per share,table_hybrid,1.0,1.0,1.0,1.0,87 90 67 103 112,67 87 103
+NVDA:EarningsPerShareDiluted:2025-01-26,NVDA,diluted earnings per share,plain_dense,1.0,1.0,1.0,1.0,87 88 85 125 90,67 87 103
+NVDA:EarningsPerShareDiluted:2025-01-26,NVDA,diluted earnings per share,plain_hybrid,1.0,1.0,1.0,1.0,87 90 103 85 92,67 87 103
+NVDA:EarningsPerShareDiluted:2025-01-26,NVDA,diluted earnings per share,table_dense,1.0,1.0,1.0,1.0,87 88 85 64 125,67 87 103
+NVDA:EarningsPerShareDiluted:2025-01-26,NVDA,diluted earnings per share,table_hybrid,1.0,1.0,1.0,1.0,87 90 103 85 92,67 87 103
+NVDA:EarningsPerShareDiluted:2024-01-28,NVDA,diluted earnings per share,plain_dense,1.0,1.0,1.0,1.0,87 88 125 90 85,87 103
+NVDA:EarningsPerShareDiluted:2024-01-28,NVDA,diluted earnings per share,plain_hybrid,1.0,1.0,1.0,1.0,87 90 103 70 67,87 103
+NVDA:EarningsPerShareDiluted:2024-01-28,NVDA,diluted earnings per share,table_dense,1.0,1.0,1.0,1.0,87 88 125 90 64,87 103
+NVDA:EarningsPerShareDiluted:2024-01-28,NVDA,diluted earnings per share,table_hybrid,1.0,1.0,1.0,1.0,87 90 103 128 92,87 103
+NVDA:Assets:2026-01-25,NVDA,total assets,plain_dense,1.0,1.0,1.0,1.0,89 125 88 87 104,89
+NVDA:Assets:2026-01-25,NVDA,total assets,plain_hybrid,1.0,1.0,1.0,1.0,89 125 104 110 119,89
+NVDA:Assets:2026-01-25,NVDA,total assets,table_dense,1.0,1.0,1.0,1.0,89 125 88 87 104,89
+NVDA:Assets:2026-01-25,NVDA,total assets,table_hybrid,1.0,1.0,1.0,1.0,89 125 104 110 119,89
+NVDA:Assets:2025-01-26,NVDA,total assets,plain_dense,1.0,1.0,1.0,1.0,89 125 88 104 87,89
+NVDA:Assets:2025-01-26,NVDA,total assets,plain_hybrid,1.0,1.0,1.0,1.0,89 125 104 110 92,89
+NVDA:Assets:2025-01-26,NVDA,total assets,table_dense,1.0,1.0,1.0,1.0,89 125 88 104 87,89
+NVDA:Assets:2025-01-26,NVDA,total assets,table_hybrid,1.0,1.0,1.0,1.0,89 125 104 110 92,89
+NVDA:Liabilities:2026-01-25,NVDA,total liabilities,plain_dense,0.0,0.0,0.0,0.16666666666666666,114 88 87 113 91,89
+NVDA:Liabilities:2026-01-25,NVDA,total liabilities,plain_hybrid,1.0,1.0,1.0,1.0,89 114 110 113 119,89
+NVDA:Liabilities:2026-01-25,NVDA,total liabilities,table_dense,0.0,0.0,0.0,0.16666666666666666,114 88 87 113 91,89
+NVDA:Liabilities:2026-01-25,NVDA,total liabilities,table_hybrid,1.0,1.0,1.0,1.0,89 114 110 92 119,89
+NVDA:Liabilities:2025-01-26,NVDA,total liabilities,plain_dense,0.0,1.0,1.0,0.5,114 89 88 113 85,89
+NVDA:Liabilities:2025-01-26,NVDA,total liabilities,plain_hybrid,1.0,1.0,1.0,1.0,89 114 108 92 85,89
+NVDA:Liabilities:2025-01-26,NVDA,total liabilities,table_dense,0.0,1.0,1.0,0.5,114 89 88 113 85,89
+NVDA:Liabilities:2025-01-26,NVDA,total liabilities,table_hybrid,0.0,1.0,1.0,0.5,114 89 92 108 85,89
+NVDA:StockholdersEquity:2026-01-25,NVDA,total shareholders' equity,plain_dense,1.0,1.0,1.0,1.0,90 87 88 89 85,89 90
+NVDA:StockholdersEquity:2026-01-25,NVDA,total shareholders' equity,plain_hybrid,1.0,1.0,1.0,1.0,89 85 90 103 108,89 90
+NVDA:StockholdersEquity:2026-01-25,NVDA,total shareholders' equity,table_dense,1.0,1.0,1.0,1.0,90 87 88 89 85,89 90
+NVDA:StockholdersEquity:2026-01-25,NVDA,total shareholders' equity,table_hybrid,1.0,1.0,1.0,1.0,89 90 85 103 108,89 90
+NVDA:StockholdersEquity:2025-01-26,NVDA,total shareholders' equity,plain_dense,1.0,1.0,1.0,1.0,90 89 85 87 88,89 90
+NVDA:StockholdersEquity:2025-01-26,NVDA,total shareholders' equity,plain_hybrid,1.0,1.0,1.0,1.0,89 85 108 103 90,89 90
+NVDA:StockholdersEquity:2025-01-26,NVDA,total shareholders' equity,table_dense,1.0,1.0,1.0,1.0,90 89 85 87 88,89 90
+NVDA:StockholdersEquity:2025-01-26,NVDA,total shareholders' equity,table_hybrid,1.0,1.0,1.0,1.0,89 85 103 108 90,89 90
+NVDA:CashAndCashEquivalentsAtCarryingValue:2026-01-25,NVDA,cash and cash equivalents,plain_dense,1.0,1.0,1.0,1.0,89 91 88 113 87,75 89 91
+NVDA:CashAndCashEquivalentsAtCarryingValue:2026-01-25,NVDA,cash and cash equivalents,plain_hybrid,1.0,1.0,1.0,1.0,89 85 105 91 76,75 89 91
+NVDA:CashAndCashEquivalentsAtCarryingValue:2026-01-25,NVDA,cash and cash equivalents,table_dense,1.0,1.0,1.0,1.0,89 91 88 113 87,75 89 91
+NVDA:CashAndCashEquivalentsAtCarryingValue:2026-01-25,NVDA,cash and cash equivalents,table_hybrid,1.0,1.0,1.0,1.0,89 75 85 91 105,75 89 91
+NVDA:CashAndCashEquivalentsAtCarryingValue:2025-01-26,NVDA,cash and cash equivalents,plain_dense,1.0,1.0,1.0,1.0,89 88 91 87 125,75 89 91
+NVDA:CashAndCashEquivalentsAtCarryingValue:2025-01-26,NVDA,cash and cash equivalents,plain_hybrid,1.0,1.0,1.0,1.0,89 85 108 127 76,75 89 91
+NVDA:CashAndCashEquivalentsAtCarryingValue:2025-01-26,NVDA,cash and cash equivalents,table_dense,1.0,1.0,1.0,1.0,89 88 91 87 125,75 89 91
+NVDA:CashAndCashEquivalentsAtCarryingValue:2025-01-26,NVDA,cash and cash equivalents,table_hybrid,1.0,1.0,1.0,1.0,89 85 108 127 75,75 89 91
+KO:Revenues:2025-12-31,KO,total revenue,plain_dense,1.0,1.0,1.0,1.0,113 117 114 115 233,86 113 137 201 203
+KO:Revenues:2025-12-31,KO,total revenue,plain_hybrid,0.0,0.0,0.0,0.125,225 68 233 114 231,86 113 137 201 203
+KO:Revenues:2025-12-31,KO,total revenue,table_dense,1.0,1.0,1.0,1.0,113 117 114 115 233,86 113 137 201 203
+KO:Revenues:2025-12-31,KO,total revenue,table_hybrid,0.0,0.0,0.0,0.1111111111111111,225 68 233 114 231,86 113 137 201 203
+KO:Revenues:2024-12-31,KO,total revenue,plain_dense,1.0,1.0,1.0,1.0,113 117 114 115 207,86 113 137 201 203
+KO:Revenues:2024-12-31,KO,total revenue,plain_hybrid,0.0,0.0,0.0,0.1111111111111111,225 233 68 114 223,86 113 137 201 203
+KO:Revenues:2024-12-31,KO,total revenue,table_dense,1.0,1.0,1.0,1.0,113 117 114 115 207,86 113 137 201 203
+KO:Revenues:2024-12-31,KO,total revenue,table_hybrid,0.0,0.0,0.0,0.1111111111111111,225 233 68 223 114,86 113 137 201 203
+KO:Revenues:2023-12-31,KO,total revenue,plain_dense,1.0,1.0,1.0,1.0,113 117 114 115 89,113 137 201 204
+KO:Revenues:2023-12-31,KO,total revenue,plain_hybrid,0.0,0.0,0.0,0.125,68 114 70 225 231,113 137 201 204
+KO:Revenues:2023-12-31,KO,total revenue,table_dense,1.0,1.0,1.0,1.0,113 117 114 115 89,113 137 201 204
+KO:Revenues:2023-12-31,KO,total revenue,table_hybrid,0.0,0.0,0.0,0.1111111111111111,66 225 68 114 70,113 137 201 204
+KO:NetIncomeLoss:2025-12-31,KO,net income,plain_dense,1.0,1.0,1.0,1.0,113 114 117 115 95,113 118 185
+KO:NetIncomeLoss:2025-12-31,KO,net income,plain_hybrid,0.0,1.0,1.0,0.5,114 113 233 225 207,113 118 185
+KO:NetIncomeLoss:2025-12-31,KO,net income,table_dense,1.0,1.0,1.0,1.0,113 114 117 115 95,113 118 185
+KO:NetIncomeLoss:2025-12-31,KO,net income,table_hybrid,0.0,1.0,1.0,0.5,114 113 233 185 207,113 118 185
+KO:NetIncomeLoss:2024-12-31,KO,net income,plain_dense,1.0,1.0,1.0,1.0,113 114 95 117 115,113 118
+KO:NetIncomeLoss:2024-12-31,KO,net income,plain_hybrid,0.0,1.0,1.0,0.5,114 113 207 118 231,113 118
+KO:NetIncomeLoss:2024-12-31,KO,net income,table_dense,1.0,1.0,1.0,1.0,113 114 95 117 115,113 118
+KO:NetIncomeLoss:2024-12-31,KO,net income,table_hybrid,0.0,1.0,1.0,0.5,114 113 185 207 118,113 118
+KO:NetIncomeLoss:2023-12-31,KO,net income,plain_dense,1.0,1.0,1.0,1.0,113 114 117 115 95,113 118
+KO:NetIncomeLoss:2023-12-31,KO,net income,plain_hybrid,0.0,0.0,1.0,0.25,114 225 233 113 118,113 118
+KO:NetIncomeLoss:2023-12-31,KO,net income,table_dense,1.0,1.0,1.0,1.0,113 114 117 115 95,113 118
+KO:NetIncomeLoss:2023-12-31,KO,net income,table_hybrid,0.0,1.0,1.0,0.3333333333333333,114 233 113 225 118,113 118
+KO:OperatingIncomeLoss:2025-12-31,KO,operating income,plain_dense,1.0,1.0,1.0,1.0,113 117 114 89 207,91 113 203
+KO:OperatingIncomeLoss:2025-12-31,KO,operating income,plain_hybrid,1.0,1.0,1.0,1.0,113 233 225 89 207,91 113 203
+KO:OperatingIncomeLoss:2025-12-31,KO,operating income,table_dense,1.0,1.0,1.0,1.0,113 117 114 89 207,91 113 203
+KO:OperatingIncomeLoss:2025-12-31,KO,operating income,table_hybrid,1.0,1.0,1.0,1.0,113 233 225 89 207,91 113 203
+KO:OperatingIncomeLoss:2024-12-31,KO,operating income,plain_dense,1.0,1.0,1.0,1.0,113 117 114 100 115,91 113 203
+KO:OperatingIncomeLoss:2024-12-31,KO,operating income,plain_hybrid,0.0,1.0,1.0,0.5,233 113 93 114 207,91 113 203
+KO:OperatingIncomeLoss:2024-12-31,KO,operating income,table_dense,1.0,1.0,1.0,1.0,113 117 114 100 115,91 113 203
+KO:OperatingIncomeLoss:2024-12-31,KO,operating income,table_hybrid,1.0,1.0,1.0,1.0,113 114 233 93 203,91 113 203
+KO:OperatingIncomeLoss:2023-12-31,KO,operating income,plain_dense,1.0,1.0,1.0,1.0,113 117 114 89 100,113 204
+KO:OperatingIncomeLoss:2023-12-31,KO,operating income,plain_hybrid,0.0,1.0,1.0,0.3333333333333333,225 233 113 114 231,113 204
+KO:OperatingIncomeLoss:2023-12-31,KO,operating income,table_dense,1.0,1.0,1.0,1.0,113 117 114 89 100,113 204
+KO:OperatingIncomeLoss:2023-12-31,KO,operating income,table_hybrid,0.0,1.0,1.0,0.3333333333333333,225 233 113 114 231,113 204
+KO:GrossProfit:2025-12-31,KO,gross profit,plain_dense,1.0,1.0,1.0,1.0,113 117 114 115 207,113
+KO:GrossProfit:2025-12-31,KO,gross profit,plain_hybrid,1.0,1.0,1.0,1.0,113 89 225 233 207,113
+KO:GrossProfit:2025-12-31,KO,gross profit,table_dense,1.0,1.0,1.0,1.0,113 117 114 115 207,113
+KO:GrossProfit:2025-12-31,KO,gross profit,table_hybrid,1.0,1.0,1.0,1.0,113 89 225 233 231,113
+KO:GrossProfit:2024-12-31,KO,gross profit,plain_dense,1.0,1.0,1.0,1.0,113 117 114 207 115,113
+KO:GrossProfit:2024-12-31,KO,gross profit,plain_hybrid,0.0,1.0,1.0,0.5,89 113 225 233 223,113
+KO:GrossProfit:2024-12-31,KO,gross profit,table_dense,1.0,1.0,1.0,1.0,113 117 114 207 115,113
+KO:GrossProfit:2024-12-31,KO,gross profit,table_hybrid,0.0,1.0,1.0,0.5,89 113 225 233 223,113
+KO:GrossProfit:2023-12-31,KO,gross profit,plain_dense,1.0,1.0,1.0,1.0,113 117 114 115 233,113
+KO:GrossProfit:2023-12-31,KO,gross profit,plain_hybrid,1.0,1.0,1.0,1.0,113 225 89 233 114,113
+KO:GrossProfit:2023-12-31,KO,gross profit,table_dense,1.0,1.0,1.0,1.0,113 117 114 115 233,113
+KO:GrossProfit:2023-12-31,KO,gross profit,table_hybrid,1.0,1.0,1.0,1.0,113 89 225 233 114,113
+KO:IncomeTaxExpenseBenefit:2025-12-31,KO,income tax expense,plain_dense,1.0,1.0,1.0,1.0,113 115 164 117 233,95 113 180
+KO:IncomeTaxExpenseBenefit:2025-12-31,KO,income tax expense,plain_hybrid,0.0,1.0,1.0,0.3333333333333333,233 225 113 93 207,95 113 180
+KO:IncomeTaxExpenseBenefit:2025-12-31,KO,income tax expense,table_dense,1.0,1.0,1.0,1.0,113 115 164 117 233,95 113 180
+KO:IncomeTaxExpenseBenefit:2025-12-31,KO,income tax expense,table_hybrid,1.0,1.0,1.0,1.0,113 233 93 114 225,95 113 180
+KO:IncomeTaxExpenseBenefit:2024-12-31,KO,income tax expense,plain_dense,1.0,1.0,1.0,1.0,113 115 117 114 207,95 113
+KO:IncomeTaxExpenseBenefit:2024-12-31,KO,income tax expense,plain_hybrid,1.0,1.0,1.0,1.0,113 233 225 207 93,95 113
+KO:IncomeTaxExpenseBenefit:2024-12-31,KO,income tax expense,table_dense,1.0,1.0,1.0,1.0,113 115 117 114 207,95 113
+KO:IncomeTaxExpenseBenefit:2024-12-31,KO,income tax expense,table_hybrid,1.0,1.0,1.0,1.0,113 233 114 93 225,95 113
+KO:IncomeTaxExpenseBenefit:2023-12-31,KO,income tax expense,plain_dense,1.0,1.0,1.0,1.0,113 117 115 114 225,10 70 113
+KO:IncomeTaxExpenseBenefit:2023-12-31,KO,income tax expense,plain_hybrid,0.0,1.0,1.0,0.3333333333333333,225 233 113 114 223,10 70 113
+KO:IncomeTaxExpenseBenefit:2023-12-31,KO,income tax expense,table_dense,1.0,1.0,1.0,1.0,113 117 115 114 225,10 70 113
+KO:IncomeTaxExpenseBenefit:2023-12-31,KO,income tax expense,table_hybrid,0.0,1.0,1.0,0.5,225 113 233 114 117,10 70 113
+KO:NetCashProvidedByUsedInOperatingActivities:2025-12-31,KO,net cash provided by operating activities,plain_dense,1.0,1.0,1.0,1.0,100 117 113 89 115,100 117
+KO:NetCashProvidedByUsedInOperatingActivities:2025-12-31,KO,net cash provided by operating activities,plain_hybrid,1.0,1.0,1.0,1.0,100 117 122 113 207,100 117
+KO:NetCashProvidedByUsedInOperatingActivities:2025-12-31,KO,net cash provided by operating activities,table_dense,1.0,1.0,1.0,1.0,100 117 113 89 115,100 117
+KO:NetCashProvidedByUsedInOperatingActivities:2025-12-31,KO,net cash provided by operating activities,table_hybrid,1.0,1.0,1.0,1.0,117 100 122 207 113,100 117
+KO:NetCashProvidedByUsedInOperatingActivities:2024-12-31,KO,net cash provided by operating activities,plain_dense,1.0,1.0,1.0,1.0,117 100 113 115 207,100 117
+KO:NetCashProvidedByUsedInOperatingActivities:2024-12-31,KO,net cash provided by operating activities,plain_hybrid,1.0,1.0,1.0,1.0,117 100 233 225 201,100 117
+KO:NetCashProvidedByUsedInOperatingActivities:2024-12-31,KO,net cash provided by operating activities,table_dense,1.0,1.0,1.0,1.0,117 100 113 115 207,100 117
+KO:NetCashProvidedByUsedInOperatingActivities:2024-12-31,KO,net cash provided by operating activities,table_hybrid,1.0,1.0,1.0,1.0,117 100 225 233 207,100 117
+KO:NetCashProvidedByUsedInOperatingActivities:2023-12-31,KO,net cash provided by operating activities,plain_dense,0.0,1.0,1.0,0.5,100 117 113 89 115,117
+KO:NetCashProvidedByUsedInOperatingActivities:2023-12-31,KO,net cash provided by operating activities,plain_hybrid,0.0,1.0,1.0,0.5,100 117 204 113 122,117
+KO:NetCashProvidedByUsedInOperatingActivities:2023-12-31,KO,net cash provided by operating activities,table_dense,0.0,1.0,1.0,0.5,100 117 113 89 115,117
+KO:NetCashProvidedByUsedInOperatingActivities:2023-12-31,KO,net cash provided by operating activities,table_hybrid,1.0,1.0,1.0,1.0,117 100 204 113 122,117
+KO:EarningsPerShareDiluted:2025-12-31,KO,diluted earnings per share,plain_dense,1.0,1.0,1.0,1.0,113 115 114 117 118,113
+KO:EarningsPerShareDiluted:2025-12-31,KO,diluted earnings per share,plain_hybrid,1.0,1.0,1.0,1.0,113 118 122 233 225,113
+KO:EarningsPerShareDiluted:2025-12-31,KO,diluted earnings per share,table_dense,1.0,1.0,1.0,1.0,113 115 114 117 118,113
+KO:EarningsPerShareDiluted:2025-12-31,KO,diluted earnings per share,table_hybrid,1.0,1.0,1.0,1.0,113 118 122 114 233,113
+KO:EarningsPerShareDiluted:2024-12-31,KO,diluted earnings per share,plain_dense,1.0,1.0,1.0,1.0,113 118 114 115 207,113
+KO:EarningsPerShareDiluted:2024-12-31,KO,diluted earnings per share,plain_hybrid,1.0,1.0,1.0,1.0,113 118 122 223 231,113
+KO:EarningsPerShareDiluted:2024-12-31,KO,diluted earnings per share,table_dense,1.0,1.0,1.0,1.0,113 118 114 115 207,113
+KO:EarningsPerShareDiluted:2024-12-31,KO,diluted earnings per share,table_hybrid,1.0,1.0,1.0,1.0,113 118 122 115 223,113
+KO:EarningsPerShareDiluted:2023-12-31,KO,diluted earnings per share,plain_dense,1.0,1.0,1.0,1.0,113 114 118 115 117,113
+KO:EarningsPerShareDiluted:2023-12-31,KO,diluted earnings per share,plain_hybrid,1.0,1.0,1.0,1.0,113 118 122 223 225,113
+KO:EarningsPerShareDiluted:2023-12-31,KO,diluted earnings per share,table_dense,1.0,1.0,1.0,1.0,113 114 118 115 117,113
+KO:EarningsPerShareDiluted:2023-12-31,KO,diluted earnings per share,table_hybrid,1.0,1.0,1.0,1.0,113 118 122 223 231,113
+KO:Assets:2025-12-31,KO,total assets,plain_dense,1.0,1.0,1.0,1.0,115 117 113 114 233,115
+KO:Assets:2025-12-31,KO,total assets,plain_hybrid,1.0,1.0,1.0,1.0,115 68 70 114 207,115
+KO:Assets:2025-12-31,KO,total assets,table_dense,1.0,1.0,1.0,1.0,115 117 113 114 233,115
+KO:Assets:2025-12-31,KO,total assets,table_hybrid,1.0,1.0,1.0,1.0,115 114 185 66 68,115
+KO:Assets:2024-12-31,KO,total assets,plain_dense,1.0,1.0,1.0,1.0,115 117 113 114 100,115
+KO:Assets:2024-12-31,KO,total assets,plain_hybrid,1.0,1.0,1.0,1.0,115 185 207 114 118,115
+KO:Assets:2024-12-31,KO,total assets,table_dense,1.0,1.0,1.0,1.0,115 117 113 114 100,115
+KO:Assets:2024-12-31,KO,total assets,table_hybrid,1.0,1.0,1.0,1.0,115 185 207 118 114,115
+KO:StockholdersEquity:2025-12-31,KO,total shareholders' equity,plain_dense,1.0,1.0,1.0,1.0,118 115 113 68 164,115 118
+KO:StockholdersEquity:2025-12-31,KO,total shareholders' equity,plain_hybrid,0.0,1.0,1.0,0.5,68 115 207 153 185,115 118
+KO:StockholdersEquity:2025-12-31,KO,total shareholders' equity,table_dense,1.0,1.0,1.0,1.0,118 115 113 66 68,115 118
+KO:StockholdersEquity:2025-12-31,KO,total shareholders' equity,table_hybrid,1.0,1.0,1.0,1.0,115 68 118 185 153,115 118
+KO:StockholdersEquity:2024-12-31,KO,total shareholders' equity,plain_dense,1.0,1.0,1.0,1.0,118 115 113 207 164,115 118
+KO:StockholdersEquity:2024-12-31,KO,total shareholders' equity,plain_hybrid,1.0,1.0,1.0,1.0,118 115 207 185 210,115 118
+KO:StockholdersEquity:2024-12-31,KO,total shareholders' equity,table_dense,1.0,1.0,1.0,1.0,118 115 113 207 164,115 118
+KO:StockholdersEquity:2024-12-31,KO,total shareholders' equity,table_hybrid,1.0,1.0,1.0,1.0,115 118 207 185 210,115 118
+KO:CashAndCashEquivalentsAtCarryingValue:2025-12-31,KO,cash and cash equivalents,plain_dense,1.0,1.0,1.0,1.0,115 117 113 114 233,115 117 124
+KO:CashAndCashEquivalentsAtCarryingValue:2025-12-31,KO,cash and cash equivalents,plain_hybrid,1.0,1.0,1.0,1.0,115 207 225 124 233,115 117 124
+KO:CashAndCashEquivalentsAtCarryingValue:2025-12-31,KO,cash and cash equivalents,table_dense,1.0,1.0,1.0,1.0,115 117 113 114 233,115 117 124
+KO:CashAndCashEquivalentsAtCarryingValue:2025-12-31,KO,cash and cash equivalents,table_hybrid,1.0,1.0,1.0,1.0,115 207 117 225 233,115 117 124
+KO:CashAndCashEquivalentsAtCarryingValue:2024-12-31,KO,cash and cash equivalents,plain_dense,1.0,1.0,1.0,1.0,115 117 113 114 207,115 117 124
+KO:CashAndCashEquivalentsAtCarryingValue:2024-12-31,KO,cash and cash equivalents,plain_hybrid,1.0,1.0,1.0,1.0,115 207 225 124 233,115 117 124
+KO:CashAndCashEquivalentsAtCarryingValue:2024-12-31,KO,cash and cash equivalents,table_dense,1.0,1.0,1.0,1.0,115 117 113 114 207,115 117 124
+KO:CashAndCashEquivalentsAtCarryingValue:2024-12-31,KO,cash and cash equivalents,table_hybrid,1.0,1.0,1.0,1.0,115 117 207 225 233,115 117 124
+NKE:RevenueFromContractWithCustomerExcludingAssessedTax:2026-05-31,NKE,total revenue,plain_dense,1.0,1.0,1.0,1.0,62 92 72 70 69,60 62 64 68 92 131 134
+NKE:RevenueFromContractWithCustomerExcludingAssessedTax:2026-05-31,NKE,total revenue,plain_hybrid,0.0,1.0,1.0,0.5,93 60 6 78 92,60 62 64 68 92 131 134
+NKE:RevenueFromContractWithCustomerExcludingAssessedTax:2026-05-31,NKE,total revenue,table_dense,1.0,1.0,1.0,1.0,62 92 72 70 60,60 62 64 68 92 131 134
+NKE:RevenueFromContractWithCustomerExcludingAssessedTax:2026-05-31,NKE,total revenue,table_hybrid,1.0,1.0,1.0,1.0,60 78 6 92 93,60 62 64 68 92 131 134
+NKE:RevenueFromContractWithCustomerExcludingAssessedTax:2025-05-31,NKE,total revenue,plain_dense,1.0,1.0,1.0,1.0,92 62 131 6 136,60 62 68 92 131 134
+NKE:RevenueFromContractWithCustomerExcludingAssessedTax:2025-05-31,NKE,total revenue,plain_hybrid,0.0,1.0,1.0,0.3333333333333333,6 146 131 93 92,60 62 68 92 131 134
+NKE:RevenueFromContractWithCustomerExcludingAssessedTax:2025-05-31,NKE,total revenue,table_dense,1.0,1.0,1.0,1.0,92 62 131 6 136,60 62 68 92 131 134
+NKE:RevenueFromContractWithCustomerExcludingAssessedTax:2025-05-31,NKE,total revenue,table_hybrid,0.0,1.0,1.0,0.3333333333333333,6 146 60 131 92,60 62 68 92 131 134
+NKE:RevenueFromContractWithCustomerExcludingAssessedTax:2024-05-31,NKE,total revenue,plain_dense,1.0,1.0,1.0,1.0,92 62 6 93 95,60 62 68 92 132 136
+NKE:RevenueFromContractWithCustomerExcludingAssessedTax:2024-05-31,NKE,total revenue,plain_hybrid,0.0,1.0,1.0,0.3333333333333333,6 93 60 92 146,60 62 68 92 132 136
+NKE:RevenueFromContractWithCustomerExcludingAssessedTax:2024-05-31,NKE,total revenue,table_dense,1.0,1.0,1.0,1.0,92 62 6 60 93,60 62 68 92 132 136
+NKE:RevenueFromContractWithCustomerExcludingAssessedTax:2024-05-31,NKE,total revenue,table_hybrid,1.0,1.0,1.0,1.0,60 6 92 93 146,60 62 68 92 132 136
+NKE:NetIncomeLoss:2024-05-31,NKE,net income,plain_dense,1.0,1.0,1.0,1.0,92 62 93 72 69,60 62 68 92 93 95 96 122
+NKE:NetIncomeLoss:2024-05-31,NKE,net income,plain_hybrid,1.0,1.0,1.0,1.0,62 93 60 92 146,60 62 68 92 93 95 96 122
+NKE:NetIncomeLoss:2024-05-31,NKE,net income,table_dense,1.0,1.0,1.0,1.0,92 60 62 93 72,60 62 68 92 93 95 96 122
+NKE:NetIncomeLoss:2024-05-31,NKE,net income,table_hybrid,1.0,1.0,1.0,1.0,60 62 92 93 146,60 62 68 92 93 95 96 122
+NKE:GrossProfit:2026-05-31,NKE,gross profit,plain_dense,1.0,1.0,1.0,1.0,92 62 6 93 134,62 65 92 134
+NKE:GrossProfit:2026-05-31,NKE,gross profit,plain_hybrid,1.0,1.0,1.0,1.0,92 6 146 134 74,62 65 92 134
+NKE:GrossProfit:2026-05-31,NKE,gross profit,table_dense,1.0,1.0,1.0,1.0,92 62 6 93 134,62 65 92 134
+NKE:GrossProfit:2026-05-31,NKE,gross profit,table_hybrid,1.0,1.0,1.0,1.0,92 6 146 134 74,62 65 92 134
+NKE:GrossProfit:2025-05-31,NKE,gross profit,plain_dense,1.0,1.0,1.0,1.0,62 92 72 70 65,62 65 92 134
+NKE:GrossProfit:2025-05-31,NKE,gross profit,plain_hybrid,1.0,1.0,1.0,1.0,62 65 72 69 70,62 65 92 134
+NKE:GrossProfit:2025-05-31,NKE,gross profit,table_dense,1.0,1.0,1.0,1.0,62 92 72 70 65,62 65 92 134
+NKE:GrossProfit:2025-05-31,NKE,gross profit,table_hybrid,1.0,1.0,1.0,1.0,62 65 72 69 70,62 65 92 134
+NKE:GrossProfit:2024-05-31,NKE,gross profit,plain_dense,1.0,1.0,1.0,1.0,92 6 62 93 95,62 92 136
+NKE:GrossProfit:2024-05-31,NKE,gross profit,plain_hybrid,1.0,1.0,1.0,1.0,92 6 62 136 65,62 92 136
+NKE:GrossProfit:2024-05-31,NKE,gross profit,table_dense,1.0,1.0,1.0,1.0,92 6 62 93 95,62 92 136
+NKE:GrossProfit:2024-05-31,NKE,gross profit,table_hybrid,1.0,1.0,1.0,1.0,92 6 62 60 65,62 92 136
+NKE:IncomeTaxExpenseBenefit:2024-05-31,NKE,income tax expense,plain_dense,1.0,1.0,1.0,1.0,92 93 6 94 95,60 62 68 92 95 113 114
+NKE:IncomeTaxExpenseBenefit:2024-05-31,NKE,income tax expense,plain_hybrid,0.0,1.0,1.0,0.5,6 92 93 146 60,60 62 68 92 95 113 114
+NKE:IncomeTaxExpenseBenefit:2024-05-31,NKE,income tax expense,table_dense,1.0,1.0,1.0,1.0,92 93 6 94 60,60 62 68 92 95 113 114
+NKE:IncomeTaxExpenseBenefit:2024-05-31,NKE,income tax expense,table_hybrid,1.0,1.0,1.0,1.0,92 6 60 146 93,60 62 68 92 95 113 114
+NKE:NetCashProvidedByUsedInOperatingActivities:2026-05-31,NKE,net cash provided by operating activities,plain_dense,0.0,1.0,1.0,0.5,92 95 62 94 93,78 95
+NKE:NetCashProvidedByUsedInOperatingActivities:2026-05-31,NKE,net cash provided by operating activities,plain_hybrid,1.0,1.0,1.0,1.0,95 6 78 146 93,78 95
+NKE:NetCashProvidedByUsedInOperatingActivities:2026-05-31,NKE,net cash provided by operating activities,table_dense,0.0,1.0,1.0,0.3333333333333333,92 94 95 62 93,78 95
+NKE:NetCashProvidedByUsedInOperatingActivities:2026-05-31,NKE,net cash provided by operating activities,table_hybrid,1.0,1.0,1.0,1.0,95 6 78 94 146,78 95
+NKE:NetCashProvidedByUsedInOperatingActivities:2025-05-31,NKE,net cash provided by operating activities,plain_dense,0.0,1.0,1.0,0.5,92 95 94 6 93,78 95
+NKE:NetCashProvidedByUsedInOperatingActivities:2025-05-31,NKE,net cash provided by operating activities,plain_hybrid,1.0,1.0,1.0,1.0,95 6 78 146 93,78 95
+NKE:NetCashProvidedByUsedInOperatingActivities:2025-05-31,NKE,net cash provided by operating activities,table_dense,0.0,1.0,1.0,0.3333333333333333,92 94 95 6 93,78 95
+NKE:NetCashProvidedByUsedInOperatingActivities:2025-05-31,NKE,net cash provided by operating activities,table_hybrid,1.0,1.0,1.0,1.0,95 6 78 94 146,78 95
+NKE:NetCashProvidedByUsedInOperatingActivities:2024-05-31,NKE,net cash provided by operating activities,plain_dense,0.0,1.0,1.0,0.5,92 95 6 94 93,95
+NKE:NetCashProvidedByUsedInOperatingActivities:2024-05-31,NKE,net cash provided by operating activities,plain_hybrid,1.0,1.0,1.0,1.0,95 78 93 146 92,95
+NKE:NetCashProvidedByUsedInOperatingActivities:2024-05-31,NKE,net cash provided by operating activities,table_dense,0.0,1.0,1.0,0.5,92 95 6 94 93,95
+NKE:NetCashProvidedByUsedInOperatingActivities:2024-05-31,NKE,net cash provided by operating activities,table_hybrid,1.0,1.0,1.0,1.0,95 78 93 60 92,95
+NKE:EarningsPerShareDiluted:2026-05-31,NKE,diluted earnings per share,plain_dense,1.0,1.0,1.0,1.0,92 62 78 57 94,62 92 122
+NKE:EarningsPerShareDiluted:2026-05-31,NKE,diluted earnings per share,plain_hybrid,1.0,1.0,1.0,1.0,92 62 78 54 96,62 92 122
+NKE:EarningsPerShareDiluted:2026-05-31,NKE,diluted earnings per share,table_dense,1.0,1.0,1.0,1.0,92 62 60 78 57,62 92 122
+NKE:EarningsPerShareDiluted:2026-05-31,NKE,diluted earnings per share,table_hybrid,1.0,1.0,1.0,1.0,92 62 78 54 96,62 92 122
+NKE:EarningsPerShareDiluted:2025-05-31,NKE,diluted earnings per share,plain_dense,1.0,1.0,1.0,1.0,92 93 94 95 96,62 92 122
+NKE:EarningsPerShareDiluted:2025-05-31,NKE,diluted earnings per share,plain_hybrid,1.0,1.0,1.0,1.0,92 96 146 62 6,62 92 122
+NKE:EarningsPerShareDiluted:2025-05-31,NKE,diluted earnings per share,table_dense,1.0,1.0,1.0,1.0,92 94 93 95 96,62 92 122
+NKE:EarningsPerShareDiluted:2025-05-31,NKE,diluted earnings per share,table_hybrid,1.0,1.0,1.0,1.0,92 96 146 6 62,62 92 122
+NKE:EarningsPerShareDiluted:2024-05-31,NKE,diluted earnings per share,plain_dense,1.0,1.0,1.0,1.0,92 62 94 57 93,62 92 122
+NKE:EarningsPerShareDiluted:2024-05-31,NKE,diluted earnings per share,plain_hybrid,1.0,1.0,1.0,1.0,92 62 78 96 146,62 92 122
+NKE:EarningsPerShareDiluted:2024-05-31,NKE,diluted earnings per share,table_dense,1.0,1.0,1.0,1.0,92 60 62 94 57,62 92 122
+NKE:EarningsPerShareDiluted:2024-05-31,NKE,diluted earnings per share,table_hybrid,1.0,1.0,1.0,1.0,92 62 78 96 146,62 92 122
+NKE:Assets:2026-05-31,NKE,total assets,plain_dense,1.0,1.0,1.0,1.0,94 92 95 78 93,94
+NKE:Assets:2026-05-31,NKE,total assets,plain_hybrid,1.0,1.0,1.0,1.0,94 93 78 132 117,94
+NKE:Assets:2026-05-31,NKE,total assets,table_dense,1.0,1.0,1.0,1.0,94 92 95 78 93,94
+NKE:Assets:2026-05-31,NKE,total assets,table_hybrid,1.0,1.0,1.0,1.0,94 60 78 132 95,94
+NKE:Assets:2025-05-31,NKE,total assets,plain_dense,1.0,1.0,1.0,1.0,94 92 95 6 93,94
+NKE:Assets:2025-05-31,NKE,total assets,plain_hybrid,1.0,1.0,1.0,1.0,94 93 60 132 117,94
+NKE:Assets:2025-05-31,NKE,total assets,table_dense,1.0,1.0,1.0,1.0,94 92 95 6 93,94
+NKE:Assets:2025-05-31,NKE,total assets,table_hybrid,1.0,1.0,1.0,1.0,94 60 95 132 117,94
+NKE:StockholdersEquity:2026-05-31,NKE,total shareholders' equity,plain_dense,0.0,1.0,1.0,0.5,92 94 96 54 78,94 96
+NKE:StockholdersEquity:2026-05-31,NKE,total shareholders' equity,plain_hybrid,1.0,1.0,1.0,1.0,94 96 54 90 60,94 96
+NKE:StockholdersEquity:2026-05-31,NKE,total shareholders' equity,table_dense,0.0,1.0,1.0,0.5,92 94 96 54 78,94 96
+NKE:StockholdersEquity:2026-05-31,NKE,total shareholders' equity,table_hybrid,1.0,1.0,1.0,1.0,94 96 54 90 60,94 96
+NKE:StockholdersEquity:2025-05-31,NKE,total shareholders' equity,plain_dense,0.0,1.0,1.0,0.5,92 96 94 146 54,94 96
+NKE:StockholdersEquity:2025-05-31,NKE,total shareholders' equity,plain_hybrid,1.0,1.0,1.0,1.0,94 96 54 90 60,94 96
+NKE:StockholdersEquity:2025-05-31,NKE,total shareholders' equity,table_dense,1.0,1.0,1.0,1.0,94 92 96 146 54,94 96
+NKE:StockholdersEquity:2025-05-31,NKE,total shareholders' equity,table_hybrid,1.0,1.0,1.0,1.0,94 96 54 90 60,94 96
+NKE:CashAndCashEquivalentsAtCarryingValue:2026-05-31,NKE,cash and cash equivalents,plain_dense,1.0,1.0,1.0,1.0,94 92 95 78 6,94 95 110
+NKE:CashAndCashEquivalentsAtCarryingValue:2026-05-31,NKE,cash and cash equivalents,plain_hybrid,0.0,1.0,1.0,0.5,78 95 90 94 93,94 95 110
+NKE:CashAndCashEquivalentsAtCarryingValue:2026-05-31,NKE,cash and cash equivalents,table_dense,1.0,1.0,1.0,1.0,94 92 95 78 6,94 95 110
+NKE:CashAndCashEquivalentsAtCarryingValue:2026-05-31,NKE,cash and cash equivalents,table_hybrid,1.0,1.0,1.0,1.0,94 95 78 90 93,94 95 110
+NKE:CashAndCashEquivalentsAtCarryingValue:2025-05-31,NKE,cash and cash equivalents,plain_dense,1.0,1.0,1.0,1.0,94 92 95 93 60,94 95 110
+NKE:CashAndCashEquivalentsAtCarryingValue:2025-05-31,NKE,cash and cash equivalents,plain_hybrid,0.0,1.0,1.0,0.5,90 94 132 60 95,94 95 110
+NKE:CashAndCashEquivalentsAtCarryingValue:2025-05-31,NKE,cash and cash equivalents,table_dense,1.0,1.0,1.0,1.0,94 92 95 93 60,94 95 110
+NKE:CashAndCashEquivalentsAtCarryingValue:2025-05-31,NKE,cash and cash equivalents,table_hybrid,1.0,1.0,1.0,1.0,94 95 90 60 132,94 95 110
