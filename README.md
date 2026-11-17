@@ -2,6 +2,8 @@
 
 Ask questions about company annual reports, pull out key numbers and check them against official SEC data, and read the mood of recent news. The main point of the project is the scorecard: three ways of storing the documents for search, tested on the same questions, with correct answers taken from the official numbers each company files with the SEC (XBRL data).
 
+![FinSight app answering a question about Apple's revenue, with the cited report page shown below](docs/app.png)
+
 ## What it compares
 
 | Method | How pages are stored for search |
