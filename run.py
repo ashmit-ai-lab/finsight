@@ -7,6 +7,7 @@
   python run.py evaluate [--answers] [--limit N]   scorecard
   python run.py news-eval       check the news mood model honestly
   python run.py check-graph     confirm the LangGraph flow reproduces the evaluated results
+  python run.py injection [--limit N]   prompt injection test: planted text vs the guarded prompt
 """
 import argparse
 import json
@@ -221,6 +222,16 @@ def cmd_check_graph(args):
     print(f"LangGraph flow matched the earlier result on {same} of {n} questions")
 
 
+def cmd_injection(args):
+    from finsight import injection
+    _, baseline = _cache(args.method)
+    if not baseline:
+        raise SystemExit(f"No cached answers for {args.method}; run evaluate --answers first.")
+    card = injection.run(Searcher(), _load_questions(), baseline, limit=args.limit, attacks=args.attacks,
+                         method=args.method, model=args.model)
+    print(card.to_markdown(index=False, floatfmt=".2f"))
+
+
 def cmd_news_eval(args):
     from finsight.news import SentimentModel, evaluate_on_tweets
     res = evaluate_on_tweets(SentimentModel(), limit=args.limit)
@@ -231,7 +242,7 @@ def cmd_news_eval(args):
 def main():
     p = argparse.ArgumentParser()
     sub = p.add_subparsers(dest="cmd", required=True)
-    for name in ("download", "render", "index", "questions", "evaluate", "news-eval", "check-graph"):
+    for name in ("download", "render", "index", "questions", "evaluate", "news-eval", "check-graph", "injection"):
         sp = sub.add_parser(name)
         sp.add_argument("--tickers", nargs="*")
         if name == "index":
@@ -246,6 +257,12 @@ def main():
                             help="when the model says not found, ask again with twice the passages")
         if name in ("evaluate", "news-eval"):
             sp.add_argument("--limit", type=int, default=None)
+        if name == "injection":
+            from finsight.injection import ATTACKS
+            sp.add_argument("--limit", type=int, default=20)
+            sp.add_argument("--attacks", nargs="*", choices=list(ATTACKS))
+            sp.add_argument("--method", default="plain_dense", choices=list(METHODS))
+            sp.add_argument("--model", default=None)
         if name == "check-graph":
             sp.add_argument("--method", default="plain_dense", choices=list(METHODS))
             sp.add_argument("--limit", type=int, default=10)
@@ -253,7 +270,7 @@ def main():
     args = p.parse_args()
     {"download": cmd_download, "render": cmd_render, "index": cmd_index, "questions": cmd_questions,
      "evaluate": cmd_evaluate, "news-eval": cmd_news_eval,
-     "check-graph": cmd_check_graph}[args.cmd](args)
+     "check-graph": cmd_check_graph, "injection": cmd_injection}[args.cmd](args)
 
 
 if __name__ == "__main__":

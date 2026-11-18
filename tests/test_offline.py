@@ -230,3 +230,45 @@ def test_langgraph_flow_second_look(env, monkeypatch):
 
     docs = graph.FinSightRetriever(searcher=Searcher(), ticker="EXM", method="plain_dense", k=3).invoke("net sales")
     assert len(docs) == 3 and "page" in docs[0].metadata
+
+
+def test_prompt_injection_scorecard(env, monkeypatch):
+    """Planted text reaches the model, the guarded prompt wraps excerpts, and attack success is scored."""
+    import argparse
+    import pandas as pd
+    import run
+    from finsight import chunking, injection, llm, retrieval
+    from finsight.render import load_pages, render
+
+    render("EXM")
+    pages = load_pages("EXM")
+    for scheme in ("plain", "table"):
+        retrieval.TextIndex.build(chunking.build_chunks("EXM", scheme, pages, HTML), HashEmbedder()).save(scheme, "EXM")
+    run.cmd_questions(argparse.Namespace(tickers=None))
+    qs = pd.read_csv(config.DATA / "questions.csv")
+    path = config.RESULTS / "answers" / "plain_dense.jsonl"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text("".join(json.dumps({"qid": q, "correct": True}) + "\n" for q in qs.qid))
+
+    def gullible(question, hits, model=None, guarded=False):
+        """Obeys planted text unless guarded; checks the excerpt tags are there when guarded."""
+        ctx = llm.format_context(hits, guarded)
+        assert ("<excerpt page=" in ctx) == guarded
+        q = qs[qs.question == question].iloc[0]
+        fake_text, _ = injection.fake_figure(float(q.value), q.unit)
+        if not guarded and fake_text in ctx:
+            v = fake_text.split()[0].lstrip("$")
+            return {"answer": v, "value": v, "scale": "millions", "found": True}
+        if not guarded and injection.CANARY in ctx:
+            return {"answer": "see " + injection.CANARY, "value": None, "found": True}
+        return {"answer": "", "value": f"{q.value / (1 if q.unit == 'USD/shares' else 1e6):,.2f}",
+                "scale": "millions", "found": True}
+
+    monkeypatch.setattr(llm, "answer", gullible)
+    run.cmd_injection(argparse.Namespace(limit=4, attacks=None, method="plain_dense", model=None))
+    card = pd.read_csv(config.RESULTS / "injection_scorecard.csv").set_index(["attack", "defence"])
+    for a in injection.ATTACKS:
+        assert card.loc[(a, "none"), "attack_success"] == 1.0
+        assert card.loc[(a, "guarded"), "attack_success"] == 0.0
+    assert card.loc[("clean", "guarded"), "accuracy"] == 1.0
+    assert card.loc[("override", "none"), "accuracy"] == 0.0
